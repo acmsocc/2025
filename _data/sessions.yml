@@ -1,519 +1,247 @@
 day1:
-- end: 7:50 AM
-  start: 7:40 AM
-  talks: 
-  - authors:
-    - Carlo Curino (Microsoft)
-    - Georgia Koutrika (Athena Research Center)
-    - Ravi Netravali (Princeton University)
-  title: Welcome Session
 - end: 8:00 AM
-  start: 7:50 AM
-  talks: 
-  - authors:
-    - Neeraja Yadwadkar (VMware Research and UT Austin)
-  title: D&amp;I at SoCC 2021
-- end: 9:00 AM
+  start: 7:30 AM
+  talks: []
+  title: Breakfast
+- end: 8:30 AM
   start: 8:00 AM
+  talks: []
+  title: Opening
+- end: 9:30 AM
+  start: 8:30 AM
   title: Keynote 1
   talks:
   - authors:
-    - Aditya Akella (UT Austin)
-    title: 'Networking and Cloud: A Match Made in Heaven'  
+    - Ana Klimovich (ETH Zurich)
+    title: 'Scalable Input Data Processing for Resource-Efficient Machine Learning'
 - end: 10:00 AM
-  start: 9:00 AM
-  talks: 
-  - authors:
-    - Francisco Romero
-    - Mark Zhao
-    - Neeraja J. Yadwadkar
-    - Christos Kozyrakis (Stanford University)
-    title: 'Llama: A Heterogeneous & Serverless Framework for Auto-Tuning Video Analytics Pipelines'
-  - authors:
-    - Cody Hao Yu 
-    - Xingjian Shi
-    - Haichen Shen
-    - Zhi Chen
-    - Mu Li
-    - Yida Wang (Amazon Web Services, Inc)
-    title: 'Lorien: Efficient Deep Learning Workloads Delivery'
-  - authors:
-    - Lisa Dunlap 
-    - Kirthevasan Kandasamy
-    - Ujval Misra 
-    - Richard Liaw 
-    - Joesph Gonzalez 
-    - Ion Stoica
-    - Michael Jordan (UC Berkeley)
-    title: 'Elastic Hyperparameter Tuning on the Cloud'
-  - authors:
-    - Hanxi Guo (Shanghai Jiao Tong University) 
-    - Hao Wang (Louisiana State University)
-    - Tao Song (Shanghai Jiao Tong University)
-    - Yang Hua (Queen's University Belfast, UK)
-    - Zhangcheng Lv (Huawei Technologies Co., Ltd.) 
-    - Xiulang Jin (Huawei Technologies Co., Ltd.)
-    - Zhengui Xue (Shanghai Jiao Tong University)
-    - Ruhui Ma (Shanghai Jiao Tong University)
-    - Haibing Guan (Shanghai Jiao Tong University)
-    title: 'Siren: Byzantine-robust Federated Learning via Proactive Alarming'
-  title: Session 1 (Efficient, Robust ML training and inference I)
-  chair: Zhihao Jia, Carnegie Mellon University (virtual) 
-- end: 10:15 AM
+  start: 9:30 AM
+  title: Break
+  talks: []
+- end: 12:00 PM
   start: 10:00 AM
-  title: Break
-  talks: []
-- end: 11:15 AM
-  start: 10:15 AM
   talks: 
   - authors:
-    - Mert Toslali (Boston University)
-    - Emre Ates (Boston University)
-    - Alex Ellis (Tufts University)
-    - Zhaoqi Zhang (Tufts University)
-    - Darby Huye (Tufts University)
-    - Lan Liu (Tufts University)
-    - Samantha Puterman (Boston University)
-    - Ayse K. Coskun (Boston University)
-    - Raja R. Sambasivan (Tufts University)
-    title: 'Automating instrumentation choices for performance problems in distributed applications with VAIF'
+    - Manos Pavlidakis
+    title: 'RuSH: A Runtime System for Heterogeneous Accelerators'
   - authors:
-    - Lexiang Huang 
-    - Timothy Zhu (The Pennsylvania State University)
-    title: 'tprof: Performance profiling via structural aggregation and automated analysis of distributed systems traces'
+    - K. K. Ramakrishnan
+    title: 'DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems'
   - authors:
-    - Kalev Alpernas (Tel Aviv University)
-    - Aurojit Panda (NYU) 
-    - Leonid Ryzhyk (VMware Research)
-    - Mooly Sagiv (Tel Aviv University)
-    title: 'Cloud-Scale Runtime Verification of Serverless Applications'
+    - Wenda Tang
+    title: 'Demeter: QoS-Aware CPU Scheduling to Reduce Power Consumption of Multiple Black-Box Workloads'
   - authors:
-    - Pantazis Deligiannis (Microsoft Research)
-    - Narayanan Ganapathy (Facebook)
-    - Akash Lal (Microsoft Research)
-    - Shaz Qadeer (Novi)
-    title: 'Building Reliable Cloud Services Using Coyote Actors'
-  title: Session 2 (Tracing)
-  chair: Muhammad Ali Gulzar, Virginia Tech 
-- end: 11:30 AM
-  start: 11:15 AM
+    - Romil Bhardwaj
+    title: 'ESCHER: Expressive Scheduling with Ephemeral Resources'
+  - authors:
+    - Hafiz Mohsin Bashir
+    title: 'Network Resource Management as a Database Problem'
+  title: Session 1 (Resource Management)
+  chair:  
+- end: 1:30 PM
+  start: 12:00 PM
+  title: Lunch
   talks: []
-  title: Break
-- end: 12:15 PM
-  start: 11:30 AM
-  talks:
-  - authors:
-    - Francisco Romero (Stanford University)
-    - Gohar Irfan Chaudhry (Microsoft Research)
-    - Inigo Goiri (Microsoft Research)
-    - Pragna Gopa (Microsoft Azure)
-    - Paul Batum (Microsoft Azure)
-    - Neeraja Yadwadkar (Stanford University)
-    - Rodrigo Fonseca (Microsoft Research)
-    - Christos Kozyrakis (Stanford University)
-    - Ricardo Bianchini (Microsoft Research)
-    title: 'Faa$T: A Transparent Auto-Scaling Cache for Serverless Applications'
-  - authors:
-    - Arjun Singhvi (University of Wisconsin - Madison)
-    - Arjun Balasubramanian (Amazon Web Services)
-    - Kevin Houck (Amazon Web Services)
-    - Mohammed Danish Shaikh (Google)
-    - Shivaram Venkataraman (University of Wisconsin - Madison)
-    - Aditya Akella (UT Austin and Google)
-    title: 'Atoll: A Scalable Low-Latency Serverless Platform'
-  - authors:
-    - Vivek M. Bhasi 
-    - Jashwant Raj Gunasekaran
-    - Prashanth Thinakaran 
-    - Cyan Subhra Mishra 
-    - Mahmut Taylan Kandemir
-    - Chita Das (The Pennsylvania State University)
-    title: 'Kraken : Adaptive Container Provisioning for Deploying Dynamic DAG applications in Serverless platforms'
-  title: Session 3 (Serverless platforms I)
-  chair: Karla Saur, Microsoft 
-- end: 1:00 PM
-  start: 12:15 PM
-  talks:
-  - authors:
-    - Viyom Mittal (University of California, Riverside)
-    - Shixiong Qi (University of California, Riverside)
-    - Ratnadeep Bhattacharya (George Washington University)
-    - Xiaosu Lyu (George Washington University)
-    - Junfeng Li (Tsinghua University)
-    - Sameer G Kulkarni (Indian Institute of Technology, Gandhinagar)
-    - Dan Li (Tsinghua University)
-    - Jinho Hwang (Facebook Inc.)
-    - K. K. Ramakrishnan (University of California, Riverside)
-    - Timothy Wood (George Washington University)
-    title: 'Mu: An Efficient, Fair and Responsive Serverless Framework for Resource-Constrained Edge Clouds'
-  - authors:
-    - Enrique Saurez 
-    - Harshit Gupta 
-    - Alexandros Daglis 
-    - Umakishore Ramachandran (Georgia Institute of Technology)
-    title: 'OneEdge: An Efficient Control Plane for Geo-Distributed Infrastructures'
-  - authors:
-    - Joseph Noor (UCLA)
-    - Mani Srivastava (UCLA)
-    - Ravi Netravali (Princeton University)
-    title: 'Portkey: Adaptive Key-Value Placement over Dynamic Edge Networks'
-  title: Session 4 (Cloud paradigms at the edge)
-  chair: Bailu Ding, Microsoft Research (virtual) 
-- end: 2:00 PM
-  start: 1:00 PM
+- end: 2:30 PM
+  start: 1:30 PM
+  title: Fresh Thinking Talks
   talks: []
-  title: Lunch  
+- end: 4:30 PM
+  start: 2:30 PM
+  talks: 
+  - authors:
+    - Alexandra (Sasha) Fedorova
+    title: 'Mind the Writes: a Cache Admission Policy for Optane NVRAM'
+  - authors:
+    - Supriyo Ghosh
+    title: 'How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud ServiceHow to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service'
+  - authors:
+    - Themis Melissaris
+    title: 'Elastic Cloud Services: Scaling Snowflake’s Control Plane'
+  - authors:
+    - Mingji Han
+    title: 'GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing'
+  - authors:
+    - Baolin Li
+    title: 'MISO: Exploiting Multi-Instance GPU Capability for Efficient Workload Execution'
+  title: Session 2 (Cloud Infrastructure & Hardware)
+  chair: 
+- end: 8:00 PM
+  start: 6:00 PM
+  talks: []
+  title: Dinner
 day2:
-- end: 9:00 AM
-  start: 8:00 AM
+- end: 8:30 AM
+  start: 7:30 AM
+  talks: []
+  title: Breakfast
+- end: 9:30 AM
+  start: 8:30 AM
   title: Keynote 2
   talks:
   - authors:
-    - Ranjita Bhagwan (Microsoft Research)
-    title: 'Leveraging Data to Improve Cloud Services'  
+    - Joseph M. Hellerstein (UC Berkeley)
+    title: 'Declaring the Era of Programmable Clouds'
 - end: 10:00 AM
-  start: 9:00 AM
-  talks: 
-  - authors:
-    - Yancan Mao
-    - Yuan Huang
-    - Runxin Tian
-    - Xin Wang
-    - Richard T. B. Ma (School of Computing, National University of Singapore)
-    title: 'Trisk: Task-Centric Data Stream Reconfiguration'
-  - authors:
-    - Pradeep Ambati
-    - Noman Bashir
-    - David Irwin 
-    - Prashant Shenoy (University of Massachusetts Amherst)
-    title: 'Good Things Come to Those Who Wait: Optimizing Job Waiting in the Cloud'
-  - authors:
-    - Li Liu (George Mason University)
-    - Haoliang Wang (Adobe Research)
-    - An Wang (Case Western Reserve University)
-    - Mengbai Xiao (Shandong University)
-    - Yue Cheng (George Mason University)
-    - Songqing Chen (George Mason University)
-    title: 'Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds'
-  - authors:
-    - Suyi Li (Hong Kong University of Science and Technology)
-    - Luping Wang (Hong Kong University of Science and Technology, Alibaba Group)
-    - Wei Wang (Hong Kong University of Science and Technology)
-    - Yinghao Yu (Alibaba Group)
-    - Bo Li (Hong Kong University of Science and Technology)
-    title: 'George: Learning to Place Long-Lived Containers in Large Clusters with Operation Constraints'
-  title: Session 5 (Improving cloud deployments for users)
-  chair: Puru Kulkarni, IIT Bombay (virtual) 
-- end: 10:30 AM
-  start: 10:00 AM
+  start: 9:30 AM
   title: Break
   talks: []
-- end: 11:30 AM
-  start: 10:30 AM
-  talks: 
-  - authors:
-    - Mathias Lecuyer (University of British Columbia)
-    - Sang Hoon Kim (Columbia University)
-    - Mihir Nanavati (Twitter)
-    - Junchen Jiang (University of Chicago)
-    - Siddhartha Sen (Microsoft Research)
-    - Aleksandrs Slivkins (Microsoft Research)
-    - Amit Sharma (Microsoft Research)
-    title: 'Sayer: Using Implicit Feedback to Optimize System Policies'
-  - authors:
-    - Mert Toslali (Boston University)
-    - Srinivasan Parthasarathy
-    - Fabio Oliveira
-    - Hai Huang (IBM Research)
-    - Ayse K. Coskun (Boston University)
-    title: 'Iter8: Online Experimentation in the Cloud'
-  - authors:
-    - Giorgos Xanthakis (Univ. of Crete and FORTH, Greece)
-    - Giorgos Saloustros (ICS-FORTH, Greece)
-    - Nikos Batsaras
-    - Anastasios Papagiannis
-    - Angelos Bilas (Univ. of Crete and FORTH, Greece)
-    title: 'Parallax: Hybrid Key-Value Placement in LSM-based Key-Value Stores'
-  - authors:
-    - Mohammad Shahrad (University of British Columbia)
-    - Sameh Elnikety
-    - Ricardo Bianchini (Microsoft Research)
-    title: 'Provisioning Differentiated Last-Level Cache Allocations to VMs in Public Clouds'
-  title: Session 6 (Helping users deploy cloud apps)
-  chair: Sanjay Rao, Purdue University (virtual) 
 - end: 12:00 PM
-  start: 11:30 AM
-  talks: []
-  title: Break
-- end: 1:00 PM
-  start: 12:00 PM
-  talks:
+  start: 10:00 AM
+  talks: 
   - authors:
-    - Muhammad Ali Gulzar (Virginia Tech)
-    - Miryung Kim (UCLA)
-    title: 'OptDebug: Fault-Inducing Operation Isolation for Dataflow Applications'
+    - Sen Lin
+    title: 'QFaaS: Accelerating and Securing Serverless Cloud Networks with QUIC'
   - authors:
-    - Ionel Gog (UC Berkeley)
-    - Michael Isard
-    - Martín Abadi (Google Research)
-    title: 'Falkirk Wheel: Rollback Recovery for Dataflow Systems'
+    - Vivek Bhasi
+    title: 'Cypress : Input-Sensitive Container Provisioning and Request Scheduling for Serverless Platforms'
   - authors:
     - Christopher Meiklejohn
-    - Andrea Estrada
-    - Yiwen Song
-    - Heather Miller
-    - Rohan Padhye (Carnegie Mellon University) 
-    title: 'Service-Level Fault Injection Testing'
+    title: 'Method Overloading the Circuit'
   - authors:
-    - Sahil Suneja
-    - Yunhui Zheng
-    - Yufan Zhuang
-    - Jim A. Laredo
-    - Alessandro Morari (IBM Research)
-    title: 'Towards Reliable AI for Source Code Understanding (vision)'
-  title: Session 8 (Fault tolerance and testing)
-  chair: Pedro Fonseca, Purdue University 
-- end: 2:00 PM
-  start: 1:00 PM
-  talks:
+    - Kostis Kaffes
+    title: 'Hermod: Principled Scheduling for Serverless Functions'
   - authors:
-    - John Wilkes (Google) 
-    - Rodrigo Fonseca (Microsoft Research)
-    - Dilma Da Silva (TAMU) 
-    - Akshitha Sriraman (CMU) 
-  title: Lunch + Panel (Research environment and Diversity in Cloud Computing)
-  chair: Neeraja Yadwadkar (VMware Research and UT Austin) 
+    - Haoran Qiu
+    title: 'SIMPPO: A Scalable and Incremental Online Learning Framework for Serverless Resource Management'
+  - authors:
+    - Sashko Ristov
+    title: 'SimLess: Simulate Serverless Workflows and Their Twins and Siblings in Federated FaaS'
+  title: Session 3 (Serverless)
+  chair:  
+- end: 1:30 PM
+  start: 12:00 PM
+  title: Lunch
+  talks: []
 - end: 2:30 PM
-  start: 2:00 PM
-  talks:
-  - authors:
-    - Anuroop Desu
-    - Udaya Puvvadi
-    - Tyler Stachecki
-    - Sagar Vishwakarma
-    - Sadegh Khalili
-    - Kanad Ghose
-    - Bahgat G Sammakia (State University of New York, Binghamton)
-    title: 'Latency-Aware Dynamic Server and Cooling Capacity Provisioner for Data Centers'
-  - authors:
-    - Noman Bashir (University of Massachusetts Amherst)
-    - Tian Guo (Worcester Polytechnic Institute)
-    - Mohammad Hajiesmaili
-    - David Irwin
-    - Prashant Shenoy
-    - Ramesh Sitaraman
-    - Abel Souza (University of Massachusetts, Amherst)
-    - Adam Wierman (Caltech)
-    title: 'Enabling Sustainable Clouds: The Case for Virtualizing the Energy System (vision)'
-  title: Session 7 (Energy awareness)
-  chair: Rebecca Taft, Cockroach Labs (virtual) 
-- end: 8:00 PM
-  start: 6:30 PM
-  talks: 
-  - authors: Visions Room - 28th floor 
-  title: Conference Banquet 
-day3:
-- end: 9:00 AM
-  start: 8:00 AM
+  start: 1:30 PM
   title: Keynote 3
   talks:
   - authors:
-    - Krysta Svore (Microsoft)
-    title: 'Accelerating the cloud with quantum'
-- end: 10:00 AM
-  start: 9:00 AM
+    - Kunle Olukotun (Stanford University)
+    title: 'Systems for ML and ML for Systems: A Virtuous Cycle'
+- end: 3:30 PM
+  start: 2:30 PM
   talks: 
   - authors:
-    - Shutian Luo (Shenzhen Institute of Advanced Technology, CAS; Univ. of Chinese Academy of Sciences; University of Macau)
-    - Huanle Xu (University of Macau)
-    - Chengzhi Lu (Shenzhen Institute of Advanced Technology, CAS; Univ. of Chinese Academy of Sciences)
-    - Kejiang Ye (Shenzhen Institute of Advanced Technology, CAS)
-    - Guoyao Xu
-    - Liping Zhang
-    - Yu Ding
-    - Jian He (Alibaba Group) 
-    - Chengzhong Xu (University of Macau)
-    title: 'Characterizing Microservice Dependency and Performance: Alibaba Trace Analysis (BEST PAPER AWARD)'
+    - Kamala Ramasubramanian
+    title: 'Mining microservice design patterns'
   - authors:
-    - Ata Fatahi
-    - George Kesidis (Penn State University)
-    title: 'SHOWAR: Right-Sizing And Efficient Scheduling of Microservices'
+    - Jungeun Shin
+    title: 'Cloud-native Workflow Scheduling using a Hybrid Priority Rule and Dynamic Task Parallelism'
   - authors:
-    - Amirhossein Mirhosseini (University of Michigan)
-    - Sameh Elnikety (Microsoft Research)
-    - Thomas Wenisch (University of Michigan)
-    title: 'Parslo: A Gradient Descent-based Approach for Near-optimal Partial SLO Allotment in Microservices'
+    - Haodong Wang
+    title: 'Minimizing Packet Retransmission for Real-Time Video Analytics'
   - authors:
-    - Jun Zhang
-    - Robert Ferydouni
-    - Aldrin Montana
-    - Daniel Bittman 
-    - Peter Alvaro (UC Santa Cruz)
-    title: '3MileBeach: A Tracer with Teeth'
-  title: Session 9 (Microservice management and scheduling)
-  chair: Raja Sambasivan, Tufts University
-- end: 10:45 AM
-  start: 10:00 AM
-  title: Break
-  talks: []
-- end: 10:50 AM
-  start: 10:45 AM
-  talks: 
-  title: Best Paper and Test of Time award announcement
-  chair: Phillip B. Gibbons, CMU (virtual)
-- end: 11:30 AM
-  start: 10:50 AM
-  talks: 
-  - authors:
-    - Charles Reiss (UC Berkeley) 
-    - Alexey Tumanov (CMU)
-    - Gregory R. Ganger (CMU)
-    - Randy Katz (UC Berkeley)
-    - Michael Kozuch (Intel Labs)
-    title: 'Heterogeneity and Dynamicity of Clouds at Scale: Google Trace Analysis (SoCC 2012)'
-  title: Test of Time talk - Charles Reiss and Alexey Tumanov
-- end: 12:15 PM
-  start: 11:30 AM
-  talks:
-  - authors:
-    - Nalin Ranjan (Princeton University)
-    - Zechao Shang (Snowflake Inc.)
-    - Sanjay Krishnan (University of Chicago)
-    - Aaron E. Elmore (University of Chicago)
-    title: 'Version Reconciliation for Collaborative Databases'
-  - authors:
-    - Parth Thakkar
-    - Senthilnathan Natarajan (IBM Research, India)
-    title: 'Scaling Blockchains Using Pipelined Execution and Sparse Peers'
-  - authors:
-    - Jingqi Wu
-    - Rong Chen
-    - Yubin Xia (Shanghai Jiao Tong University)
-    title: 'Fast and Accurate Optimizer for Query Processing over Knowledge Graphs'
-  title: Session 10 (DB and query optimization)
-  chair: Venkatesh Emani, Microsoft Gray Systems Lab (virtual) 
-- end: 12:30 PM
-  start: 12:15 PM
+    - Gao Wei
+    title: 'Titan: A Scheduler for Foundation Model Fine-tuning Workloads'
+  title: Session 4 (Work In Progress)
+  chair: 
+- end: 3:30 PM
+  start: 4:00 PM
   talks: []
   title: Break
-- end: 1:15 PM
-  start: 12:30 PM
-  talks:
+- end: 4:00 PM
+  start: 6:00 PM
+  talks: 
   - authors:
-    - Soo Yee Lim (University of British Columbia)
-    - Bogdan Stelea (University of Bristol)
-    - Xueyuan Han (Harvard University)
-    - Thomas Pasquier (University of British Columbia)
-    title: 'Secure Namespaced Kernel Audit for Containers'
+    - Yongkang Zhang
+    title: 'Workload Management in Alibaba Clusters: The Good, the Bad, and the Ugly'
   - authors:
-    - Yuepeng Li (China University of Geosciences, Wuhan, China)
-    - Deze Zeng (China University of Geosciences, Wuhan, China)
-    - Lin Gu (Huazhong University of Science and Technology)
-    - Quan Chen (Shanghai Jiao Tong University)
-    - Song Guo (Hong Kong Polytechnic University)
-    - Albert Zomaya (The University of Sydney)
-    - Minyi Guo (Shanghai Jiao Tong University)
-    title: 'Lasagna: Accelerating Secure Deep Learning Inference in SGX-enabled Edge Cloud'
+    - Huangshi Tian
+    title: 'Owl: Performance-Aware Scheduling for Resource-Efficient Function-as-a-Service Cloud'
   - authors:
-    - Chengliang Zhang (Hong Kong University of Science and Technology)
-    - Junzhe Xia (Hong Kong University of Science and Technology)
-    - Baichen Yang (Hong Kong University of Science and Technology)
-    - Huancheng Puyang (Hong Kong University of Science and Technology)
-    - Wei Wang (Hong Kong University of Science and Technology)
-    - Ruichuan Chen (Nokia Bell Labs)
-    - Istemi Ekin Akkus (Nokia Bell Labs)
-    - Paarijaat Aditya (Nokia Bell Labs)
-    - Feng Yan (University of Nevada, Reno) 
-    title: 'Citadel: Protecting Data Privacy and Model Confidentiality for Collaborative Learning'
-  title: Session 11 (Security monitoring and preservation)
-  chair: Eric Keller, University of Colorado Boulder (virtual) 
-- end: 2:15 PM
-  start: 1:15 PM
+    - Shutian Luo
+    title: 'The Power of Prediction: Microservice Auto Scaling via Workload Learning'
+  - authors:
+    - Chenlei Tang
+    title: 'Accelerating Range Query Performance of Primary and Secondary Indices for Key-Value Separation'
+  - authors:
+    - Yuewen Wu
+    title: 'Serving Unseen Deep Learning Models with Near-Optimal Configurations: a Fast Adaptive Search Approach'
+  - authors:
+    - Jiuchen Shi
+    title: 'Characterizing and Orchestrating VM Reservation in Geo-distributed Clouds to Improve the Resource Efficiency'
+  title: Session 5 (Virtual)
+  chair: 
+- end: 8:00 PM
+  start: 6:00 PM
   talks: []
-  title: Lunch  
-day4:
-- end: 9:00 AM
+  title: Poster Session Reception
+
+day3:
+- end: 8:00 AM
+  start: 7:30 AM
+  talks: []
+  title: Breakfast
+- end: 8:30 AM
   start: 8:00 AM
+  talks: []
+  title: Opening
+- end: 9:30 AM
+  start: 8:30 AM
   title: Keynote 4
   talks:
   - authors:
-    - Peter Bailis (Sisu Data)
-    title: 'The Future of Cloud Data: Challenges and Research Opportunities'  
+    - Thierry Cruanes
+    title: ''
 - end: 10:00 AM
-  start: 9:00 AM
-  talks: 
-  - authors:
-    - Djob Mvondo (ICSA, University of Edinburgh)
-    - Antonio Barbalace (ICSA, University of Edinburgh)
-    - Alain Tchana (ENS Lyon, France)
-    - Gilles Muller (INRIA)
-    title: 'Tell me when you are sleepy and what may wake you up! (vision)'
-  - authors:
-    - Amoghavarsha Suresh
-    - Anshul Gandhi (Stony Brook University)
-    title: 'ServerMore: Opportunistic Execution of Serverless Functions in the Cloud'
-  - authors:
-    - Nilanjan Daw
-    - Umesh Bellur
-    - Purushottam Kulkarni (Indian Institute of Technology Bombay)
-    title: 'Speedo: Fast dispatch and orchestration of serverless workflows'
-  - authors:
-    - Ata Fatahi (Penn State University)
-    - George Kesidis (Penn State University)
-    - Carlee Joe-Wong (CMU)
-    - Mohammad Shahrad (University of British Columbia)
-    title: 'On Merits and Viability of Multi-Cloud Serverless (vision)'
-  title: Session 12 (Serverless platforms II)
-  chair: Dilma Da Silva, Texas A&M University (virtual) 
-- end: 10:15 AM
-  start: 10:00 AM
+  start: 9:30 AM
   title: Break
   talks: []
-- end: 11:15 AM
-  start: 10:15 AM
+- end: 12:00 PM
+  start: 10:00 AM
   talks: 
   - authors:
-    - Wei Gao (School of Computer Science and Engineering, Nanyang Technological University; S-Lab, Nanyang Technological University),
-    - Zhisheng Ye (Peking University)
-    - Peng Sun (SenseTime)
-    - Yonggang Wen (School of Computer Science and Engineering, Nanyang Technological University)
-    - Tianwei Zhang (School of Computer Science and Engineering, Nanyang Technological University)
-    title: 'CHRONUS: A Novel Deadline-aware Scheduler for Deep Learning Training Jobs'
+    - Zhifeng Jiang
+    title: 'Sirius: Efficient Federated Learning via Guided Asynchronous Training'
   - authors:
-    - Yitao Hu
-    - Rajrup Ghosh
-    - Ramesh Govindan (University of Southern California)
-    title: 'Scrooge: A Cost-Effective Deep Learning Inference System'
+    - Thomas Lambert
+    title: 'GeoPregel: An End-to-End System for Privacy-Preserving Graph Processing in Geo-Distributed Data Centers'
   - authors:
-    - Luping Wang (Hong Kong University of Science and Technology, Alibaba Group)
-    - Lingyun Yang (Hong Kong University of Science and Technology)
-    - Yinghao Yu (Alibaba Group)
-    - Wei Wang (Hong Kong University of Science and Technology)
-    - Bo Li (Hong Kong University of Science and Technology)
-    - Xianchao Sun (Alibaba Group)
-    - Jian He (Alibaba Group)
-    - Liping Zhang (Alibaba Group)
-    title: 'Morphling: Fast, Near-Optimal Auto-Configuration for Cloud-Native Model Serving'
+    - Shiwei Zhang
+    title: 'Accelerating Large-Scale Distributed Neural Network Training with SPMD Parallelism'
   - authors:
-    - Pratiksha Thaker 
-    - Hudson Ayers 
-    - Deepti Raghavan
-    - Ning Niu
-    - Philip Levis
-    - Matei Zaharia (Stanford University)
-    title: 'Clamor: Extending Functional Cluster Computing Frameworks with Fine-Grained Remote Memory Access'
-  title: Session 13 (Efficient, Robust ML training and inference II)
-  chair: Utku Sirin, Harvard University 
-- end: 12:15 PM
-  start: 11:15 AM
-  talks:
+    - Thomas Davidson
+    title: "I Don't Know What You Did Last Summer: The Missing Role of Humans in Systems Research"
   - authors:
-    - Raghu Ramakrishnan (Microsoft) 
-    - Jennifer Rexford (Princeton)
-    - Hakim Weatherspoon (Cornell)
-    - Simon Peter (UT Austin)
-    - Fatma Ozcan (Google) 
-    - Mehul Shah (Amazon) 
-  title: Panel (Open Research Problems in the Cloud)
-  chair: Magdalena Balazinska, University of Washington 
+    - Xiaoyu Qiu
+    title: 'Proactive Look-Ahead Control of Transaction Flows for High-Throughput Payment Channel Network'
+  - authors:
+    - Kuo Zhang
+    title: 'GreenDRL: Managing Green Datacenters Using Deep Reinforcement Learning'
+  title: Session 6 (Machine Learning & Analytics)
+  chair:  
+- end: 1:30 PM
+  start: 12:00 PM
+  title: Lunch
+  talks: []
+- end: 2:30 PM
+  start: 1:30 PM
+  title: Award Talk
+  talks: []
+- end: 4:30 PM
+  start: 2:30 PM
+  talks: 
+  - authors:
+    - Weiwei Jia
+    title: 'Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference'
+  - authors:
+    - Jianfeng Wang
+    title: 'Quadrant: A Cloud-Deployable NF Virtualization Platform'
+  - authors:
+    - Gaulthier Gain
+    title: 'Want More Networked Services? Inflate your Unikernels!'
+  - authors:
+    - Daniel Waddington
+    title: 'A case for using Cache Line Deltas for High Frequency VM Snapshotting'
+  - authors:
+    - Syed M. Iqbal
+    title: 'CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances'
+  title: Session 7 (Virtualization)
+  chair: 
+- end: 5:00 PM
+  start: 4:30 PM
+  talks: []
+  title: Dinner
 

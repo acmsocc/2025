@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% include slider.html content="<h2>Conference schedule</h2>"%}
+
+<!-- Content -->
+<div class="block">
+<div class="container">
+<div class="row">
+  <div class="col-md-9">
+    <section id="main-content">
+      <div class="section-content">
+        <h2>Schedule</h2>
+	<h4><b>Proceedings of SoCC 2022 with free and open access to all papers is available via <a href="acm-dl.html" style="text-decoration:underline;">ACM DL</a></b></h4>
+	<h4>Note: all times here are displayed in PDT</h4>
+        {% include session.html date="Tuesday, November 8th" key="day1" showlinks="true" %}
+        {% include session.html date="Wednesday, November 9th" key="day2" showlinks="true" %}
+        {% include session.html date="Thursday, November 10th" key="day3" showlinks="true" %}
+      </div><!-- /.section-content -->
+    </section><!-- /.main-content -->
+  </div><!-- /.col-md-9 -->
+              
+  <div class="col-md-3">
+    {% include latest-news.html %}
+  </div><!-- /.col-md-3 -->
+
+</div><!-- /.row -->
+</div><!-- /.container -->
+</div>
+<!-- end Content -->
