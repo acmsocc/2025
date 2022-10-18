@@ -22,19 +22,42 @@ day1:
   start: 10:00 AM
   talks: 
   - authors:
-    - Manos Pavlidakis (Institute of Computer Science, Foundation for Research and Technology Hellas - Greece and Computer Science Department, University of Crete, Greece); Stelios Mavridis, Antony Chazapis, Giorgos Vasiliadis (Institute of Computer Science, Foundation for Research and Technology Hellas - Greece); Angelos Bilas (Institute of Computer Science, Foundation for Research and Technology Hellas - Greece and Computer Science Department, University of Crete, Greece)
+    - Manos Pavlidakis (Institute of Computer Science, Foundation for Research and Technology Hellas - Greece and Computer Science Department, University of Crete, Greece)
+    - Stelios Mavridis
+    - Antony Chazapis
+    - Giorgos Vasiliadis (Institute of Computer Science, Foundation for Research and Technology Hellas - Greece)
+    - Angelos Bilas (Institute of Computer Science, Foundation for Research and Technology Hellas - Greece and Computer Science Department, University of Crete, Greece)
     title: 'Arax: A Runtime Framework for Decoupling Applications from Heterogeneous Accelerators'
   - authors:
-    - Ziliang Wang (Chongqing University, Ant Group); Shiyi Zhu, JianGuo Li, Wei Jiang (Ant Group); K. K. Ramakrishnan (University of California, Riverside); Yangfei Zheng (Ant Group); Meng Yan, Xiaohong Zhang (Chongqing University); Alex X. Liu (Ant Group)
+    - Ziliang Wang (Chongqing University, Ant Group)
+    - Shiyi Zhu, JianGuo Li, Wei Jiang (Ant Group)
+    - K. K. Ramakrishnan (University of California, Riverside)
+    - Yangfei Zheng (Ant Group)
+    - Meng Yan, Xiaohong Zhang (Chongqing University)
+    - Alex X. Liu (Ant Group)
     title: 'DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems'
   - authors:
-    - Wenda Tang (Xi'an Jiaotong University, Xi'an, Shaanxi, China); Yutao Ke (Huawei Cloud Computing Technologies Co., Ltd., Xi'an, Shaanxi, China); Senbo Fu (Huawei Cloud Computing Technologies Co., Ltd., Shenzhen, Guangdong, China); Hongliang Jiang, Junjie Wu (Huawei Technologies Co.,Ltd., Shenzhen, Guangdong, China); Qian Peng (Huawei Cloud Computing Technologies Co., Ltd., Xi'an, Shaanxi, China); Feng Gao (Xi'an Jiaotong University, Xi'an, Shaanxi, China)
+    - Wenda Tang (Xi'an Jiaotong University, Xi'an, Shaanxi, China)
+      Yutao Ke (Huawei Cloud Computing Technologies Co., Ltd., Xi'an, Shaanxi, China)
+      Senbo Fu (Huawei Cloud Computing Technologies Co., Ltd., Shenzhen, Guangdong, China)
+      Hongliang Jiang
+      Junjie Wu (Huawei Technologies Co.,Ltd., Shenzhen, Guangdong, China)
+      Qian Peng (Huawei Cloud Computing Technologies Co., Ltd., Xi'an, Shaanxi, China)
+      Feng Gao (Xi'an Jiaotong University, Xi'an, Shaanxi, China)
     title: 'Demeter: QoS-Aware CPU Scheduling to Reduce Power Consumption of Multiple Black-Box Workloads'
   - authors:
-    - Romil Bhardwaj (UC Berkeley); Alexey Tumanov (Georgia Tech); Stephanie Wang (UC Berkeley); Richard Liaw, Philipp Moritz, Robert Nishihara (Anyscale Inc.); Ion Stoica (UC Berkeley)
+    - Romil Bhardwaj (UC Berkeley)
+      Alexey Tumanov (Georgia Tech)
+      Stephanie Wang (UC Berkeley)
+      Richard Liaw
+      Philipp Moritz
+      Robert Nishihara (Anyscale Inc.)
+      Ion Stoica (UC Berkeley)
     title: 'ESCHER: Expressive Scheduling with Ephemeral Resources'
   - authors:
-    - Hafiz Mohsin Bashir, Abdullah Bin Faisal, Fahad Dogar (Tufts University)
+    - Hafiz Mohsin Bashir
+      Abdullah Bin Faisal
+      Fahad Dogar (Tufts University)
     title: 'Network Resource Management as a Database Problem'
   title: Session 1 (Resource Management)
   chair:  
@@ -50,19 +73,63 @@ day1:
   start: 2:30 PM
   talks: 
   - authors:
-    - Alexandra (Sasha) Fedorova (MongoDB and University of British Columbia); Keith A. Smith, Keith Bostic, Susan LoVerso, Michael Cahill, Alex Gorrod (MongoDB)
+    - Alexandra (Sasha) Fedorova (MongoDB and University of British Columbia)
+      Keith A. Smith
+      Keith Bostic
+      Susan LoVerso
+      Michael Cahill
+      Alex Gorrod (MongoDB)
     title: 'Writes Hurt: Lessons in Cache Design for Optane NVRAM'
   - authors:
-    - Supriyo Ghosh (Microsoft); Manish Shetty (Microsoft Research); Chetan Bansal (Microsoft); Suman Nath (Microsoft Research)
+    - Supriyo Ghosh (Microsoft)
+      Manish Shetty (Microsoft Research)
+      Chetan Bansal (Microsoft)
+      Suman Nath (Microsoft Research)
     title: 'How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud ServiceHow to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service'
   - authors:
-    - Themis Melissaris, Kunal Nabar, Rares Radut, Samir Rehmtulla, Arthur Shi, Samartha Chandrashekar (Snowflake Inc.); Ioannis Papapanagiotou (Gemini Trust)
+    - Themis Melissaris
+      Kunal Nabar
+      Rares Radut
+      Samir Rehmtulla
+      Arthur Shi
+      Samartha Chandrashekar (Snowflake Inc.)
+      Ioannis Papapanagiotou (Gemini Trust)
     title: 'Elastic Cloud Services: Scaling Snowflake’s Control Plane'
   - authors:
-    - Haotian Liu, Bo Tang, Jiashu Zhang, Yangshen Deng, Xiao Yan, Xinying Zheng, Qiaomu Shen, Dan Zeng, Zunyao Mao, Chaozu Zhang, Zhengxin You, Zhihao Wang, Runzhe Jiang (Southern University of Science and Technology); Fang Wang (The Hong Kong Polytechnic University); Man Lung Yiu (Hong Kong Polytechnic University); Huan Li (Aalborg University); Mingji Han (Boston University); Qian Li, Zhenghai Luo (Huawei Technologies Co. Ltd.)
+    - Haotian Liu
+      Bo Tang
+      Jiashu Zhang
+      Yangshen Deng
+      Xiao Yan
+      Xinying Zheng
+      
+      
+      Qiaomu Shen
+      
+      Dan Zeng
+      Zunyao Mao
+      Chaozu Zhang
+      
+      Zhengxin You
+      Zhihao Wang
+      Runzhe Jiang (Southern University of Science and Technology)
+      Fang Wang (The Hong Kong Polytechnic University)
+      
+      Man Lung Yiu (Hong Kong Polytechnic University)
+      Huan Li (Aalborg University)
+      
+      Mingji Han (Boston University)
+      Qian Li
+      
+      Zhenghai Luo (Huawei Technologies Co. Ltd.)
     title: 'GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing'
   - authors:
-    - Baolin Li, Tirthak Patel (Northeastern University); Siddharth Samsi, Vijay Gadepally (MIT Lincoln Lab); Devesh Tiwari (Northeastern University)
+    - Baolin Li
+      
+      Tirthak Patel (Northeastern University)
+      Siddharth Samsi
+      Vijay Gadepally (MIT Lincoln Lab)
+      Devesh Tiwari (Northeastern University)
     title: 'MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters'
   title: Session 2 (Cloud Infrastructure & Hardware)
   chair: 
@@ -90,22 +157,49 @@ day2:
   start: 10:00 AM
   talks: 
   - authors:
-    - Kaiyu Hou, Sen Lin, Yan Chen (Northwestern University); Vinod Yegneswaran (SRI International)
+    - Kaiyu Hou
+      Sen Lin
+      Yan Chen (Northwestern University)
+      Vinod Yegneswaran (SRI International)
     title: 'QFaaS: Accelerating and Securing Serverless Cloud Networks with QUIC'
   - authors:
-    - Vivek M. Bhasi (The Pennsylvania State University, University Park); Jashwant Raj Gunasekaran (Adobe Research); Aakash Sharma, Mahmut Taylan Kandemir, Chita Das (The Pennsylvania State University, University Park)
+    - Vivek M. Bhasi (The Pennsylvania State University, University Park)
+      Jashwant Raj Gunasekaran (Adobe Research)
+      Aakash Sharma
+      Mahmut Taylan Kandemir
+      Chita Das (The Pennsylvania State University, University Park)
     title: 'Cypress : Input size–Sensitive Container Provisioning and Request Scheduling for Serverless Platforms'
   - authors:
-    - Christopher S. Meiklejohn (Carnegie Mellon University); Lydia Stark (University of Alaska Anchorage); Cesare Celozzi, Matt Ranney (DoorDash, Inc.); Heather Miller (Carnegie Mellon University)
+    - Christopher S. Meiklejohn (Carnegie Mellon University)
+      
+      Lydia Stark (University of Alaska Anchorage)
+      Cesare Celozzi
+      Matt Ranney (DoorDash, Inc.)
+      Heather Miller (Carnegie Mellon University)
     title: 'Method Overloading the Circuit'
   - authors:
-    - Kostis Kaffes (Stanford University); Neeraja J. Yadwadkar (UT Austin); Christos Kozyrakis (Stanford University)
+    - Kostis Kaffes (Stanford University)
+      
+      Neeraja J. Yadwadkar (UT Austin)
+      Christos Kozyrakis (Stanford University)
     title: 'Hermod: Principled and Practical Scheduling for Serverless Functions'
   - authors:
-    - Haoran Qiu, Weichao Mao, Archit Patke (University of Illinois at Urbana-Champaign); Chen Wang, Hubertus Franke (IBM Thomas J. Watson Research Center); Zbigniew Kalbarczyk, Tamer Başar, Ravishankar K. Iyer (University of Illinois at Urbana-Champaign)
+    - Haoran Qiu
+      
+      
+      Weichao Mao
+      Archit Patke (University of Illinois at Urbana-Champaign)
+      Chen Wang, Hubertus Franke (IBM Thomas J. Watson Research Center)
+      Zbigniew Kalbarczyk
+      Tamer Başar
+      
+      Ravishankar K. Iyer (University of Illinois at Urbana-Champaign)
     title: 'SIMPPO: A Scalable and Incremental Online Learning Framework for Serverless Resource Management'
   - authors:
-    - Sashko Ristov, Mika Hautz, Christian Hollaus (University of Innsbruck); Radu Prodan (University of Klagenfurt)
+    - Sashko Ristov
+      Mika Hautz
+      Christian Hollaus (University of Innsbruck)
+      Radu Prodan (University of Klagenfurt)
     title: 'SimLess: Simulate Serverless Workflows and Their Twins and Siblings in Federated FaaS'
   title: Session 3 (Serverless)
   chair:  
@@ -124,16 +218,30 @@ day2:
   start: 2:30 PM
   talks: 
   - authors:
-    - Kamala Ramasubramanian (Google); Eliana Phillips, Peter Alvaro (University of California, Santa Cruz)
+    - Kamala Ramasubramanian (Google)
+      Eliana Phillips
+      Peter Alvaro (University of California, Santa Cruz)
     title: 'Mining microservice design patterns'
   - authors:
-    - Jungeun Shin (University of Illinois at Urbana-Champaign); Diana Arroyo, Asser Tantawi, Chen Wang (IBM Thomas J. Watson Research Center); Alaa Youssef (IBM Thomas J. Watson Resource Center); Rakesh Nagi (University of Illinois at Urbana-Champaign)
+    - Jungeun Shin (University of Illinois at Urbana-Champaign)
+      Diana Arroyo
+      Asser Tantawi
+      Chen Wang (IBM Thomas J. Watson Research Center)
+      Alaa Youssef (IBM Thomas J. Watson Resource Center)
+      Rakesh Nagi (University of Illinois at Urbana-Champaign)
     title: 'Cloud-native Workflow Scheduling using a Hybrid Priority Rule and Dynamic Task Parallelism'
   - authors:
-    - Haodong Wang, Kuntai Du, Junchen Jiang (University of Chicago)
+    - Haodong Wang
+      Kuntai Du
+      
+      Junchen Jiang (University of Chicago)
     title: 'Minimizing Packet Retransmission for Real-Time Video Analytics'
   - authors:
-    - Wei Gao (Nanyang Technological University); Peng Sun (SenseTime); Yonggang Wen, Tianwei Zhang (Nanyang Technological University)
+    - Wei Gao (Nanyang Technological University)
+      Peng Sun (SenseTime)
+      
+      Yonggang Wen
+      Tianwei Zhang (Nanyang Technological University)
     title: 'Titan: A Scheduler for Foundation Model Fine-tuning Workloads'
   title: Session 4 (Work In Progress)
   chair: 
@@ -145,25 +253,77 @@ day2:
   start: 6:00 PM
   talks: 
   - authors:
-    - Jie Zhang, Chen Jin, YuQi Huang, Li Yi, Yu Ding, Fei Guo (Alibaba Group)
+    - Jie Zhang
+      
+      Chen Jin
+      
+      YuQi Huang
+      
+      Li Yi
+      Yu Ding
+      Fei Guo (Alibaba Group)
     title: 'KOLE: Breaking the Scalability Barrier for Managing Far Edge Nodes in Cloud'
   - authors:
-    - Yongkang Zhang (Hong Kong University of Science and Technology); Yinghao Yu (Alibaba Group); Wei Wang (Hong Kong University of Science and Technology); Qiukai Chen, Jie Wu, Zuowei Zhang, Jiang Zhong, Tianchen Ding (Alibaba Group); Qizhen Weng, Lingyun Yang (Hong Kong University of Science and Technology); Cheng Wang, Jian He, Guodong Yang, Liping Zhang (Alibaba Group)
+    - Yongkang Zhang (Hong Kong University of Science and Technology)
+      Yinghao Yu (Alibaba Group)
+      Wei Wang (Hong Kong University of Science and Technology)
+      Qiukai Chen
+      
+      Jie Wu
+      Zuowei Zhang
+      Jiang Zhong
+      Tianchen Ding (Alibaba Group)
+      Qizhen Weng
+      Lingyun Yang (Hong Kong University of Science and Technology)
+      Cheng Wang
+      Jian He
+      Guodong Yang
+      Liping Zhang (Alibaba Group)
     title: 'Workload Management in Alibaba Clusters: The Good, the Bad, and the Ugly'
   - authors:
-    - Huangshi Tian, Suyi Li (Hong Kong University of Science and Technology); Ao Wang (George Mason University); Wei Wang (Hong Kong University of Science and Technology); Tianlong Wu, Haoran Yang (Alibaba Group)
+    - Huangshi Tian
+      Suyi Li (Hong Kong University of Science and Technology)
+      
+      
+      Ao Wang (George Mason University)
+      Wei Wang (Hong Kong University of Science and Technology)
+      Tianlong Wu
+      Haoran Yang (Alibaba Group)
     title: 'Owl: Performance-Aware Scheduling for Resource-Efficient Function-as-a-Service Cloud'
   - authors:
-    - Shutian Luo (Shenzhen Institute of Advanced Technology, CAS, University of CAS, University of Macau); Huanle Xu (University of Macau); Kejiang Ye (Shenzhen Institute of Advanced Technology, CAS); Guoyao Xu, Liping Zhang, Guodong Yang (Alibaba Group); ChengZhong Xu (University of Macau)
+    - Shutian Luo (Shenzhen Institute of Advanced Technology, CAS, University of CAS, University of Macau)
+      
+      Huanle Xu (University of Macau)
+      Kejiang Ye (Shenzhen Institute of Advanced Technology, CAS)
+      Guoyao Xu
+      
+      
+      Liping Zhang
+      
+      Guodong Yang (Alibaba Group)
+      ChengZhong Xu (University of Macau)
     title: 'The Power of Prediction: Microservice Auto Scaling via Workload Learning'
   - authors:
-    - Chenlei Tang, Jiguang Wan, Zhihu Tan, Guokuan Li (Huazhong University of Science and Technology)
+    - Chenlei Tang
+      
+      Jiguang Wan
+      
+      Zhihu Tan
+      Guokuan Li (Huazhong University of Science and Technology)
     title: 'Accelerating Range Query Performance of Primary and Secondary Indices for Key-Value Separation'
   - authors:
     - Yuewen Wu, Heng Wu (Institute of Software, Chinese Academy of Sciences); Diaohan Luo, Yuanjia Xu, Yi Hu (University of Chinese Academy of Sciences); Wenbo Zhang, Hua Zhong (Institute of Software, Chinese Academy of Sciences)
     title: 'Serving Unseen Deep Learning Models with Near-Optimal Configurations: a Fast Adaptive Search Approach'
   - authors:
-    - Jiuchen Shi, Kaihua Fu, Quan Chen (Shanghai Jiao Tong University); Changpeng Yang, Pengfei Huang, Mosong Zhou (Huawei Cloud); Jieru Zhao, Chen Chen, Minyi Guo (Shanghai Jiao Tong University)
+    - Jiuchen Shi
+      Kaihua Fu
+      Quan Chen (Shanghai Jiao Tong University)
+      Changpeng Yang
+      Pengfei Huang
+      Mosong Zhou (Huawei Cloud)
+      Jieru Zhao
+      Chen Chen
+      Minyi Guo (Shanghai Jiao Tong University)
     title: 'Characterizing and Orchestrating VM Reservation in Geo-distributed Clouds to Improve the Resource Efficiency'
   title: Session 5 (Virtual)
   chair: 
@@ -196,22 +356,43 @@ day3:
   start: 10:00 AM
   talks: 
   - authors:
-    - Zhifeng Jiang, Wei Wang (Hong Kong University of Science and Technology); Baochun Li (University of Toronto); Bo Li (Hong Kong University of Science and Technology)
+    - Zhifeng Jiang
+      Wei Wang (Hong Kong University of Science and Technology)
+      Baochun Li (University of Toronto)
+      Bo Li (Hong Kong University of Science and Technology)
     title: 'Pisces: Efficient Federated Learning via Guided Asynchronous Training'
   - authors:
-    - Amelie Chi Zhou, Ruibo Qiu (Shenzhen University); Thomas Lambert (Université de Lorraine, CNRS, Inria, LORIA); Tristan Allard (Univ. Rennes, CNRS, IRISA); Shadi Ibrahim (Inria, Univ. Rennes, CNRS, IRISA); Amr El Abbadi (UC Santa Barbara)
+    - Amelie Chi Zhou
+      Ruibo Qiu (Shenzhen University)
+      Thomas Lambert (Université de Lorraine, CNRS, Inria, LORIA)
+      Tristan Allard (Univ. Rennes, CNRS, IRISA)
+      Shadi Ibrahim (Inria, Univ. Rennes, CNRS, IRISA)
+      Amr El Abbadi (UC Santa Barbara)
     title: 'PGPregel: An End-to-End System for Privacy-Preserving Graph Processing in Geo-Distributed Data Centers'
   - authors:
-    - Shiwei Zhang (The University of Hong Kong); Lansong Diao (Alibaba Group); Chuan Wu (The University of Hong Kong); Siyu Wang, Wei Lin (Alibaba Group)
+    - Shiwei Zhang (The University of Hong Kong)
+      Lansong Diao (Alibaba Group)
+      Chuan Wu (The University of Hong Kong)
+      Siyu Wang
+      Wei Lin (Alibaba Group)
     title: 'Accelerating Large-Scale Distributed Neural Network Training with SPMD Parallelism'
   - authors:
-    - Thomas Davidson, Jonathan Mace (Max Planck Institute for Software Systems (MPI-SWS))
+    - Thomas Davidson
+      Jonathan Mace (Max Planck Institute for Software Systems (MPI-SWS))
     title: "See it to Believe it? The Role of Visualisation in Systems Research"
   - authors:
-    - Wuhui Chen, Xiaoyu Qiu (Sun Yat-sen University); Zicong Hong (The Hong Kong Polytechnic University); Zibin Zheng (Sun Yat-sen University); Hong-Ning Dai (Hong Kong Baptist University); Jianting Zhang (Purdue university)
+    - Wuhui Chen
+      Xiaoyu Qiu (Sun Yat-sen University)
+      Zicong Hong (The Hong Kong Polytechnic University)
+      Zibin Zheng (Sun Yat-sen University)
+      Hong-Ning Dai (Hong Kong Baptist University)
+      Jianting Zhang (Purdue university)
     title: 'Proactive Look-Ahead Control of Transaction Flows for High-Throughput Payment Channel Network'
   - authors:
-    - Kuo Zhang, Peijian Wang, Ning Gu, Thu D. Nguyen (Rutgers University)
+    - Kuo Zhang
+      Peijian Wang
+      Ning Gu
+      Thu D. Nguyen (Rutgers University)
     title: 'GreenDRL: Managing Green Datacenters Using Deep Reinforcement Learning'
   title: Session 6 (Machine Learning & Analytics)
   chair:  
@@ -227,19 +408,38 @@ day3:
   start: 2:30 PM
   talks: 
   - authors:
-    - Weiwei Jia (The University of Rhode Island); Jiyuan Zhang (New Jersey Institute of Technology); Jianchen Shan (Hofstra University); Jing Li, Xiaoning Ding (New Jersey Institute of Technology)
+    - Weiwei Jia (The University of Rhode Island)
+      Jiyuan Zhang (New Jersey Institute of Technology)
+      Jianchen Shan (Hofstra University)
+      Jing Li
+      Xiaoning Ding (New Jersey Institute of Technology)
     title: 'Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference'
   - authors:
-    - Jianfeng Wang (University of Southern California); Tamás Lévai (Budapest University of Technology and Economics); Zhuojin Li (University of Southern California); Marcos A. M. Vieira (Universidade Federal de Minas Gerais); Ramesh Govindan, Barath Raghavan (University of Southern California)
+    - Jianfeng Wang (University of Southern California)
+      Tamás Lévai (Budapest University of Technology and Economics)
+      Zhuojin Li (University of Southern California)
+      Marcos A. M. Vieira (Universidade Federal de Minas Gerais)
+      Ramesh Govindan
+      Barath Raghavan (University of Southern California)
     title: 'Quadrant: A Cloud-Deployable NF Virtualization Platform'
   - authors:
-    - Gaulthier Gain, Cyril Soldani (University of Liège); Felipe Huici (NEC Laboratories Europe GmbH); Laurent Mathy (University of Liège)
+    - Gaulthier Gain
+      Cyril Soldani (University of Liège)
+      Felipe Huici (NEC Laboratories Europe GmbH)
+      Laurent Mathy (University of Liège)
     title: 'Want More Unikernels? Inflate Them!'
   - authors:
-    - Daniel Waddington, Moshik Hershcovitch, Swaminathan Sundararaman, Clem Dickey (IBM Research)
+    - Daniel Waddington
+      Moshik Hershcovitch
+      Swaminathan Sundararaman
+      Clem Dickey (IBM Research)
     title: 'A case for using Cache Line Deltas for High Frequency VM Snapshotting'
   - authors:
-    - Syed M. Iqbal (University of British Columbia, Amazon Web Services); Haley Li (University of British Columbia); Shane Bergsma (Huawei Cloud, Toronto Research Center); Ivan Beschastnikh, Alan J. Hu (University of British Columbia)
+    - Syed M. Iqbal (University of British Columbia, Amazon Web Services)
+      Haley Li (University of British Columbia)
+      Shane Bergsma (Huawei Cloud, Toronto Research Center)
+      Ivan Beschastnikh
+      Alan J. Hu (University of British Columbia)
     title: 'CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances'
   title: Session 7 (Virtualization)
   chair: 
