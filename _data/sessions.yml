@@ -23,7 +23,7 @@ day1:
   talks: 
   - authors:
     - Manos Pavlidakis
-    title: 'RuSH: A Runtime System for Heterogeneous Accelerators'
+    title: 'Arax: A Runtime Framework for Decoupling Applications from Heterogeneous Accelerators'
   - authors:
     - K. K. Ramakrishnan
     title: 'DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems'
@@ -51,7 +51,7 @@ day1:
   talks: 
   - authors:
     - Alexandra (Sasha) Fedorova
-    title: 'Mind the Writes: a Cache Admission Policy for Optane NVRAM'
+    title: 'Writes Hurt: Lessons in Cache Design for Optane NVRAM'
   - authors:
     - Supriyo Ghosh
     title: 'How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud ServiceHow to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service'
@@ -63,7 +63,7 @@ day1:
     title: 'GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing'
   - authors:
     - Baolin Li
-    title: 'MISO: Exploiting Multi-Instance GPU Capability for Efficient Workload Execution'
+    title: 'MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters'
   title: Session 2 (Cloud Infrastructure & Hardware)
   chair: 
 - end: 8:00 PM
@@ -94,13 +94,13 @@ day2:
     title: 'QFaaS: Accelerating and Securing Serverless Cloud Networks with QUIC'
   - authors:
     - Vivek Bhasi
-    title: 'Cypress : Input-Sensitive Container Provisioning and Request Scheduling for Serverless Platforms'
+    title: 'Cypress : Input size–Sensitive Container Provisioning and Request Scheduling for Serverless Platforms'
   - authors:
     - Christopher Meiklejohn
     title: 'Method Overloading the Circuit'
   - authors:
     - Kostis Kaffes
-    title: 'Hermod: Principled Scheduling for Serverless Functions'
+    title: 'Hermod: Principled and Practical Scheduling for Serverless Functions'
   - authors:
     - Haoran Qiu
     title: 'SIMPPO: A Scalable and Incremental Online Learning Framework for Serverless Resource Management'
@@ -145,6 +145,9 @@ day2:
   start: 6:00 PM
   talks: 
   - authors:
+    - Jie Zhang
+    title: 'KOLE: Breaking the Scalability Barrier for Managing Far Edge Nodes in Cloud'
+  - authors:
     - Yongkang Zhang
     title: 'Workload Management in Alibaba Clusters: The Good, the Bad, and the Ugly'
   - authors:
@@ -167,7 +170,7 @@ day2:
 - end: 8:00 PM
   start: 6:00 PM
   talks: []
-  title: Poster Session Reception
+  title: Poster Session & Reception
 
 day3:
 - end: 8:00 AM
@@ -194,16 +197,16 @@ day3:
   talks: 
   - authors:
     - Zhifeng Jiang
-    title: 'Sirius: Efficient Federated Learning via Guided Asynchronous Training'
+    title: 'Pisces: Efficient Federated Learning via Guided Asynchronous Training'
   - authors:
     - Thomas Lambert
-    title: 'GeoPregel: An End-to-End System for Privacy-Preserving Graph Processing in Geo-Distributed Data Centers'
+    title: 'PGPregel: An End-to-End System for Privacy-Preserving Graph Processing in Geo-Distributed Data Centers'
   - authors:
     - Shiwei Zhang
     title: 'Accelerating Large-Scale Distributed Neural Network Training with SPMD Parallelism'
   - authors:
     - Thomas Davidson
-    title: "I Don't Know What You Did Last Summer: The Missing Role of Humans in Systems Research"
+    title: "See it to Believe it? The Role of Visualisation in Systems Research"
   - authors:
     - Xiaoyu Qiu
     title: 'Proactive Look-Ahead Control of Transaction Flows for High-Throughput Payment Channel Network'
@@ -231,7 +234,7 @@ day3:
     title: 'Quadrant: A Cloud-Deployable NF Virtualization Platform'
   - authors:
     - Gaulthier Gain
-    title: 'Want More Networked Services? Inflate your Unikernels!'
+    title: 'Want More Unikernels? Inflate Them!'
   - authors:
     - Daniel Waddington
     title: 'A case for using Cache Line Deltas for High Frequency VM Snapshotting'
