@@ -230,12 +230,12 @@ day2:
     title: 'Titan: A Scheduler for Foundation Model Fine-tuning Workloads'
   title: Session 4 (Work In Progress)
   chair: 
-- end: 3:30 PM
-  start: 4:00 PM
+- end: 4:00 PM
+  start: 3:30 PM
   talks: []
   title: Break
-- end: 4:00 PM
-  start: 6:00 PM
+- end: 6:00 PM
+  start: 4:00 PM
   talks: 
   - authors:
     - Jie Zhang (Alibaba Group)
@@ -312,14 +312,10 @@ day2:
   title: Poster Session & Reception
 
 day3:
-- end: 8:00 AM
+- end: 8:30 AM
   start: 7:30 AM
   talks: []
   title: Breakfast
-- end: 8:30 AM
-  start: 8:00 AM
-  talks: []
-  title: Opening
 - end: 9:30 AM
   start: 8:30 AM
   title: Keynote 4
@@ -425,5 +421,5 @@ day3:
 - end: 5:00 PM
   start: 4:30 PM
   talks: []
-  title: Dinner
+  title: Closing
 
