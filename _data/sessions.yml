@@ -2,7 +2,7 @@ day1:
 - end: 8:00 AM
   start: 7:30 AM
   talks: []
-  title: Breakfast
+  title: Registration
 - end: 8:30 AM
   start: 8:00 AM
   talks: []
@@ -74,7 +74,7 @@ day2:
 - end: 8:30 AM
   start: 7:30 AM
   talks: []
-  title: Breakfast
+  title: Registration
 - end: 9:30 AM
   start: 8:30 AM
   title: Keynote 2
@@ -149,7 +149,7 @@ day2:
     title: 'KOLE: Breaking the Scalability Barrier for Managing Far Edge Nodes in Cloud'
   - authors:
     - Yongkang Zhang (Hong Kong University of Science and Technology); Yinghao Yu (Alibaba Group); Wei Wang (Hong Kong University of Science and Technology); Qiukai Chen, Jie Wu, Zuowei Zhang, Jiang Zhong, Tianchen Ding (Alibaba Group); Qizhen Weng, Lingyun Yang (Hong Kong University of Science and Technology); Cheng Wang, Jian He, Guodong Yang, Liping Zhang (Alibaba Group)
-    title: 'Workload Management in Alibaba Clusters: The Good, the Bad, and the Ugly'
+    title: 'Workload Consolidation in Alibaba Clusters: The Good, the Bad, and the Ugly'
   - authors:
     - Huangshi Tian, Suyi Li (Hong Kong University of Science and Technology); Ao Wang (George Mason University); Wei Wang (Hong Kong University of Science and Technology); Tianlong Wu, Haoran Yang (Alibaba Group)
     title: 'Owl: Performance-Aware Scheduling for Resource-Efficient Function-as-a-Service Cloud'
@@ -176,7 +176,7 @@ day3:
 - end: 8:30 AM
   start: 7:30 AM
   talks: []
-  title: Breakfast
+  title: Registration
 - end: 9:30 AM
   start: 8:30 AM
   title: Keynote 4
