@@ -183,7 +183,7 @@ day3:
   talks:
   - authors:
     - Thierry Cruanes (Snowflake)
-    title: ''
+    title: 'Snowflake Data Cloud Architecture: How public changes everything'
 - end: 10:00 AM
   start: 9:30 AM
   title: Break
