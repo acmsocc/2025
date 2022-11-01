@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% include slider.html content="<h2>Fresh Thinking Talks</h2>"%}
+
+<!-- Content -->
+<div class="block">
+<div class="container">
+<div class="row">
+  <div class="col-md-9">
+    <section id="main-content">
+      <div class="section-content">
+        <h2>Fresh Thinking Talk Speakers</h2>
+	  {% include keynote-speaker.html key="kaffes" photo="assets/img/kaffes.jpg" %}
+	      <br>
+	      <br>
+              <br />
+	  {% include keynote-speaker.html key="yadwadkar" photo="assets/img/yadwadkar.jpg" %}
+      </div><!-- /.section-content -->
+    </section><!-- /.main-content -->
+  </div><!-- /.col-md-9 -->
+
+  <div class="col-md-3">
+    {% include latest-news.html %}
+  </div><!-- /.col-md-3 -->
+
+</div><!-- /.row -->
+</div><!-- /.container -->
+</div>
+<!-- end Content -->
