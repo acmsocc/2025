@@ -45,7 +45,13 @@ day1:
 - end: 2:30 PM
   start: 1:30 PM
   title: Fresh Thinking Talks
-  talks: []
+  talks:
+  - authors:
+    - Kostis Kaffes (Google)
+    title: 'Enabling Customizable and Performant Systems for Cloud Computing'
+  - authors:
+    - Neeraja Yadwadkar (UT Austin)
+    title: "Systems for ML: It’s all about the choices"
 - end: 4:30 PM
   start: 2:30 PM
   talks: 
@@ -58,9 +64,6 @@ day1:
   - authors:
     - Themis Melissaris, Kunal Nabar, Rares Radut, Samir Rehmtulla, Arthur Shi, Samartha Chandrashekar (Snowflake Inc.); Ioannis Papapanagiotou (Gemini Trust)
     title: 'Elastic Cloud Services: Scaling Snowflake’s Control Plane'
-  - authors:
-    - Haotian Liu, Bo Tang, Jiashu Zhang, Yangshen Deng, Xiao Yan, Xinying Zheng, Qiaomu Shen, Dan Zeng, Zunyao Mao, Chaozu Zhang, Zhengxin You, Zhihao Wang, Runzhe Jiang (Southern University of Science and Technology); Fang Wang (The Hong Kong Polytechnic University); Man Lung Yiu (Hong Kong Polytechnic University); Huan Li (Aalborg University); Mingji Han (Boston University); Qian Li, Zhenghai Luo (Huawei Technologies Co. Ltd.)
-    title: 'GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing'
   - authors:
     - Baolin Li, Tirthak Patel (Northeastern University); Siddharth Samsi, Vijay Gadepally (MIT Lincoln Lab); Devesh Tiwari (Northeastern University)
     title: 'MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters'
@@ -165,6 +168,9 @@ day2:
   - authors:
     - Jiuchen Shi, Kaihua Fu, Quan Chen (Shanghai Jiao Tong University); Changpeng Yang, Pengfei Huang, Mosong Zhou (Huawei Cloud); Jieru Zhao, Chen Chen, Minyi Guo (Shanghai Jiao Tong University)
     title: 'Characterizing and Orchestrating VM Reservation in Geo-distributed Clouds to Improve the Resource Efficiency'
+  - authors:
+    - Haotian Liu, Bo Tang, Jiashu Zhang, Yangshen Deng, Xiao Yan, Xinying Zheng, Qiaomu Shen, Dan Zeng, Zunyao Mao, Chaozu Zhang, Zhengxin You, Zhihao Wang, Runzhe Jiang (Southern University of Science and Technology); Fang Wang (The Hong Kong Polytechnic University); Man Lung Yiu (Hong Kong Polytechnic University); Huan Li (Aalborg University); Mingji Han (Boston University); Qian Li, Zhenghai Luo (Huawei Technologies Co. Ltd.)
+    title: 'GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing'
   title: Session 5 (Virtual)
   chair: 
 - end: 8:00 PM
