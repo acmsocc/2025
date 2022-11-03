@@ -37,7 +37,7 @@ day1:
     - Hafiz Mohsin Bashir, Abdullah Bin Faisal, Fahad Dogar (Tufts University)
     title: 'Network Resource Management as a Database Problem'
   title: Session 1 (Resource Management)
-  chair:  
+  chair: Patrick Stuedi (In-person), Utku Sirin (Online)
 - end: 1:30 PM
   start: 12:00 PM
   title: Lunch
@@ -68,7 +68,7 @@ day1:
     - Baolin Li, Tirthak Patel (Northeastern University); Siddharth Samsi, Vijay Gadepally (MIT Lincoln Lab); Devesh Tiwari (Northeastern University)
     title: 'MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters'
   title: Session 2 (Cloud Infrastructure & Hardware)
-  chair: 
+  chair: Seo Jin Park (In-person), Qizhen Zhang (Online)
 - end: 8:00 PM
   start: 6:00 PM
   talks: []
@@ -111,7 +111,7 @@ day2:
     - Sashko Ristov, Mika Hautz, Christian Hollaus (University of Innsbruck); Radu Prodan (University of Klagenfurt)
     title: 'SimLess: Simulate Serverless Workflows and Their Twins and Siblings in Federated FaaS'
   title: Session 3 (Serverless)
-  chair:  
+  chair: Avani Wildani (In-person), Hao Wang (Online)
 - end: 1:30 PM
   start: 12:00 PM
   title: Lunch
@@ -139,7 +139,7 @@ day2:
     - Wei Gao (Nanyang Technological University); Peng Sun (SenseTime); Yonggang Wen, Tianwei Zhang (Nanyang Technological University)
     title: 'Titan: A Scheduler for Foundation Model Fine-tuning Workloads'
   title: Session 4 (Work In Progress)
-  chair: 
+  chair: Timothy Zhu (In-person), Saurabh Jha (Online)
 - end: 4:00 PM
   start: 3:30 PM
   talks: []
@@ -172,7 +172,7 @@ day2:
     - Haotian Liu, Bo Tang, Jiashu Zhang, Yangshen Deng, Xiao Yan, Xinying Zheng, Qiaomu Shen, Dan Zeng, Zunyao Mao, Chaozu Zhang, Zhengxin You, Zhihao Wang, Runzhe Jiang (Southern University of Science and Technology); Fang Wang (The Hong Kong Polytechnic University); Man Lung Yiu (Hong Kong Polytechnic University); Huan Li (Aalborg University); Mingji Han (Boston University); Qian Li, Zhenghai Luo (Huawei Technologies Co. Ltd.)
     title: 'GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing'
   title: Session 5 (Virtual)
-  chair: 
+  chair: Carsten Binnig, Deniz Altınbüken (In-person), Noman Bashir (Online)
 - end: 8:00 PM
   start: 6:00 PM
   talks: []
@@ -216,7 +216,7 @@ day3:
     - Kuo Zhang, Peijian Wang, Ning Gu, Thu D. Nguyen (Rutgers University)
     title: 'GreenDRL: Managing Green Datacenters Using Deep Reinforcement Learning'
   title: Session 6 (Machine Learning & Analytics)
-  chair:  
+  chair: Heather Miller (In-person), Zichen Xu (Online)
 - end: 1:30 PM
   start: 12:00 PM
   title: Lunch
@@ -244,7 +244,7 @@ day3:
     - Syed M. Iqbal (University of British Columbia, Amazon Web Services); Haley Li (University of British Columbia); Shane Bergsma (Huawei Cloud, Toronto Research Center); Ivan Beschastnikh, Alan J. Hu (University of British Columbia)
     title: 'CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances'
   title: Session 7 (Virtualization)
-  chair: 
+  chair: Russell Sears (In-person), Dong Du (Online)
 - end: 5:00 PM
   start: 4:30 PM
   talks: []
