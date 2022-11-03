@@ -60,7 +60,7 @@ day1:
     title: 'Writes Hurt: Lessons in Cache Design for Optane NVRAM'
   - authors:
     - Supriyo Ghosh (Microsoft); Manish Shetty (Microsoft Research); Chetan Bansal (Microsoft); Suman Nath (Microsoft Research)
-    title: 'How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud ServiceHow to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service'
+    title: 'How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service'
   - authors:
     - Themis Melissaris, Kunal Nabar, Rares Radut, Samir Rehmtulla, Arthur Shi, Samartha Chandrashekar (Snowflake Inc.); Ioannis Papapanagiotou (Gemini Trust)
     title: 'Elastic Cloud Services: Scaling Snowflake’s Control Plane'
