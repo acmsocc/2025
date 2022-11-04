@@ -201,20 +201,20 @@ day3:
     - Zhifeng Jiang, Wei Wang (Hong Kong University of Science and Technology); Baochun Li (University of Toronto); Bo Li (Hong Kong University of Science and Technology)
     title: 'Pisces: Efficient Federated Learning via Guided Asynchronous Training'
   - authors:
-    - Amelie Chi Zhou, Ruibo Qiu (Shenzhen University); Thomas Lambert (Université de Lorraine, CNRS, Inria, LORIA); Tristan Allard (Univ. Rennes, CNRS, IRISA); Shadi Ibrahim (Inria, Univ. Rennes, CNRS, IRISA); Amr El Abbadi (UC Santa Barbara)
-    title: 'PGPregel: An End-to-End System for Privacy-Preserving Graph Processing in Geo-Distributed Data Centers'
-  - authors:
     - Shiwei Zhang (The University of Hong Kong); Lansong Diao (Alibaba Group); Chuan Wu (The University of Hong Kong); Siyu Wang, Wei Lin (Alibaba Group)
     title: 'Accelerating Large-Scale Distributed Neural Network Training with SPMD Parallelism'
   - authors:
     - Thomas Davidson, Jonathan Mace (Max Planck Institute for Software Systems (MPI-SWS))
     title: "See it to Believe it? The Role of Visualisation in Systems Research"
   - authors:
+    - Kuo Zhang, Peijian Wang, Ning Gu, Thu D. Nguyen (Rutgers University)
+    title: 'GreenDRL: Managing Green Datacenters Using Deep Reinforcement Learning'
+  - authors:
     - Wuhui Chen, Xiaoyu Qiu (Sun Yat-sen University); Zicong Hong (The Hong Kong Polytechnic University); Zibin Zheng (Sun Yat-sen University); Hong-Ning Dai (Hong Kong Baptist University); Jianting Zhang (Purdue university)
     title: 'Proactive Look-Ahead Control of Transaction Flows for High-Throughput Payment Channel Network'
   - authors:
-    - Kuo Zhang, Peijian Wang, Ning Gu, Thu D. Nguyen (Rutgers University)
-    title: 'GreenDRL: Managing Green Datacenters Using Deep Reinforcement Learning'
+    - Amelie Chi Zhou, Ruibo Qiu (Shenzhen University); Thomas Lambert (Université de Lorraine, CNRS, Inria, LORIA); Tristan Allard (Univ. Rennes, CNRS, IRISA); Shadi Ibrahim (Inria, Univ. Rennes, CNRS, IRISA); Amr El Abbadi (UC Santa Barbara)
+    title: 'PGPregel: An End-to-End System for Privacy-Preserving Graph Processing in Geo-Distributed Data Centers'
   title: Session 6 (Machine Learning & Analytics)
   chair: Heather Miller (In-person), Zichen Xu (Online)
 - end: 1:30 PM
