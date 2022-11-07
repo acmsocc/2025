@@ -49,9 +49,9 @@
                 <h3 class="talk-title">{{ talk.title }}</h3>
                 {% endif %}
                 {% assign authors = talk.authors | join: ', ' %}
-                <p class="course-meta" style="line-height:18px;font-size:14px">{{authors}}</p>
+                <p class="course-meta" style="line-height:14px;font-size:12px">{{authors}}</p>
                 {% if talk.url %}
-                  <a href="{{talk.url}}">Paper + Video</a> &emsp;
+                  <a href="{{talk.url}}">[Paper]</a> &emsp;
                 {% endif %}
                 {% if talk.slides %}
                   <a href="{{talk.slides}}">Slides</a> &emsp;
@@ -60,6 +60,7 @@
                   <a href="{{talk.audio}}">Audio</a> &emsp;
                 {% endif %}
               </li>
+	      <br>
               {% endfor %}
             </ul>
             {% endif %}
