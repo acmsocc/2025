@@ -24,18 +24,27 @@ day1:
   - authors:
     - Manos Pavlidakis (Institute of Computer Science, Foundation for Research and Technology Hellas - Greece and Computer Science Department, University of Crete, Greece); Stelios Mavridis, Antony Chazapis, Giorgos Vasiliadis (Institute of Computer Science, Foundation for Research and Technology Hellas - Greece); Angelos Bilas (Institute of Computer Science, Foundation for Research and Technology Hellas - Greece and Computer Science Department, University of Crete, Greece)
     title: 'Arax: A Runtime Framework for Decoupling Applications from Heterogeneous Accelerators'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563467"
+    slides: "assets/slides/37.pdf"
   - authors:
     - Ziliang Wang (Chongqing University, Ant Group); Shiyi Zhu, JianGuo Li, Wei Jiang (Ant Group); K. K. Ramakrishnan (University of California, Riverside); Yangfei Zheng (Ant Group); Meng Yan, Xiaohong Zhang (Chongqing University); Alex X. Liu (Ant Group)
     title: 'DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems'
-  - authors:
-    - Wenda Tang (Xi'an Jiaotong University, Xi'an, Shaanxi, China); Yutao Ke (Huawei Cloud Computing Technologies Co., Ltd., Xi'an, Shaanxi, China); Senbo Fu (Huawei Cloud Computing Technologies Co., Ltd., Shenzhen, Guangdong, China); Hongliang Jiang, Junjie Wu (Huawei Technologies Co.,Ltd., Shenzhen, Guangdong, China); Qian Peng (Huawei Cloud Computing Technologies Co., Ltd., Xi'an, Shaanxi, China); Feng Gao (Xi'an Jiaotong University, Xi'an, Shaanxi, China)
-    title: 'Demeter: QoS-Aware CPU Scheduling to Reduce Power Consumption of Multiple Black-Box Workloads'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563469"
+    slides: "assets/slides/52.pdf"
   - authors:
     - Romil Bhardwaj (UC Berkeley); Alexey Tumanov (Georgia Tech); Stephanie Wang (UC Berkeley); Richard Liaw, Philipp Moritz, Robert Nishihara (Anyscale Inc.); Ion Stoica (UC Berkeley)
     title: 'ESCHER: Expressive Scheduling with Ephemeral Resources'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563498"
   - authors:
     - Hafiz Mohsin Bashir, Abdullah Bin Faisal, Fahad Dogar (Tufts University)
     title: 'Network Resource Management as a Database Problem'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563508"
+    slides: "assets/slides/156.pdf"
+  - authors:
+    - Wenda Tang (Xi'an Jiaotong University, Xi'an, Shaanxi, China); Yutao Ke (Huawei Cloud Computing Technologies Co., Ltd., Xi'an, Shaanxi, China); Senbo Fu (Huawei Cloud Computing Technologies Co., Ltd., Shenzhen, Guangdong, China); Hongliang Jiang, Junjie Wu (Huawei Technologies Co.,Ltd., Shenzhen, Guangdong, China); Qian Peng (Huawei Cloud Computing Technologies Co., Ltd., Xi'an, Shaanxi, China); Feng Gao (Xi'an Jiaotong University, Xi'an, Shaanxi, China)
+    title: 'Demeter: QoS-Aware CPU Scheduling to Reduce Power Consumption of Multiple Black-Box Workloads'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563476"
+    slides: "assets/slides/72.pdf"
   title: Session 1 (Resource Management)
   chair: Patrick Stuedi (In-person), Utku Sirin (Online)
 - end: 1:30 PM
@@ -58,15 +67,23 @@ day1:
   - authors:
     - Alexandra (Sasha) Fedorova (MongoDB and University of British Columbia); Keith A. Smith, Keith Bostic, Susan LoVerso, Michael Cahill, Alex Gorrod (MongoDB)
     title: 'Writes Hurt: Lessons in Cache Design for Optane NVRAM'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563461"
+    slides: "assets/slides/11.pdf"
   - authors:
     - Supriyo Ghosh (Microsoft); Manish Shetty (Microsoft Research); Chetan Bansal (Microsoft); Suman Nath (Microsoft Research)
     title: 'How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563482"
+    slides: "assets/slides/95.pdf"
   - authors:
     - Themis Melissaris, Kunal Nabar, Rares Radut, Samir Rehmtulla, Arthur Shi, Samartha Chandrashekar (Snowflake Inc.); Ioannis Papapanagiotou (Gemini Trust)
     title: 'Elastic Cloud Services: Scaling Snowflake’s Control Plane'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563483"
+    slides: "assets/slides/99.pdf"
   - authors:
     - Baolin Li, Tirthak Patel (Northeastern University); Siddharth Samsi, Vijay Gadepally (MIT Lincoln Lab); Devesh Tiwari (Northeastern University)
     title: 'MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563510"
+    slides: "assets/slides/223.pdf"
   title: Session 2 (Cloud Infrastructure & Hardware)
   chair: Seo Jin Park (In-person), Qizhen Zhang (Online)
 - end: 8:00 PM
@@ -95,21 +112,33 @@ day2:
   - authors:
     - Kaiyu Hou, Sen Lin, Yan Chen (Northwestern University); Vinod Yegneswaran (SRI International)
     title: 'QFaaS: Accelerating and Securing Serverless Cloud Networks with QUIC'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563458"
+    slides: "assets/slides/1.pdf"
   - authors:
     - Vivek M. Bhasi (The Pennsylvania State University, University Park); Jashwant Raj Gunasekaran (Adobe Research); Aakash Sharma, Mahmut Taylan Kandemir, Chita Das (The Pennsylvania State University, University Park)
     title: 'Cypress : Input size–Sensitive Container Provisioning and Request Scheduling for Serverless Platforms'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563464"
+    slides: "assets/slides/24.pdf"
   - authors:
     - Christopher S. Meiklejohn (Carnegie Mellon University); Lydia Stark (University of Alaska Anchorage); Cesare Celozzi, Matt Ranney (DoorDash, Inc.); Heather Miller (Carnegie Mellon University)
     title: 'Method Overloading the Circuit'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563466"
+    slides: "assets/slides/28.pdf"
   - authors:
     - Kostis Kaffes (Stanford University); Neeraja J. Yadwadkar (UT Austin); Christos Kozyrakis (Stanford University)
     title: 'Hermod: Principled and Practical Scheduling for Serverless Functions'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563468"
+    slides: "assets/slides/40.pdf"
   - authors:
     - Haoran Qiu, Weichao Mao, Archit Patke (University of Illinois at Urbana-Champaign); Chen Wang, Hubertus Franke (IBM Thomas J. Watson Research Center); Zbigniew Kalbarczyk, Tamer Başar, Ravishankar K. Iyer (University of Illinois at Urbana-Champaign)
     title: 'SIMPPO: A Scalable and Incremental Online Learning Framework for Serverless Resource Management'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563475"
+    slides: "assets/slides/67.pdf"
   - authors:
     - Sashko Ristov, Mika Hautz, Christian Hollaus (University of Innsbruck); Radu Prodan (University of Klagenfurt)
     title: 'SimLess: Simulate Serverless Workflows and Their Twins and Siblings in Federated FaaS'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563478"
+    slides: "assets/slides/87.pdf"
   title: Session 3 (Serverless)
   chair: Avani Wildani (In-person), Hao Wang (Online)
 - end: 1:30 PM
@@ -129,15 +158,22 @@ day2:
   - authors:
     - Kamala Ramasubramanian (Google); Eliana Phillips, Peter Alvaro (University of California, Santa Cruz)
     title: 'Mining microservice design patterns'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563472"
   - authors:
     - Jungeun Shin (University of Illinois at Urbana-Champaign); Diana Arroyo, Asser Tantawi, Chen Wang (IBM Thomas J. Watson Research Center); Alaa Youssef (IBM Thomas J. Watson Resource Center); Rakesh Nagi (University of Illinois at Urbana-Champaign)
     title: 'Cloud-native Workflow Scheduling using a Hybrid Priority Rule and Dynamic Task Parallelism'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563495"
+    slides: "assets/slides/135.pdf"
   - authors:
     - Haodong Wang, Kuntai Du, Junchen Jiang (University of Chicago)
     title: 'Minimizing Packet Retransmission for Real-Time Video Analytics'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563502"
+    slides: "assets/slides/154.pdf"
   - authors:
     - Wei Gao (Nanyang Technological University); Peng Sun (SenseTime); Yonggang Wen, Tianwei Zhang (Nanyang Technological University)
     title: 'Titan: A Scheduler for Foundation Model Fine-tuning Workloads'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563460"
+    slides: "assets/slides/6.pdf"
   title: Session 4 (Work In Progress)
   chair: Timothy Zhu (In-person), Saurabh Jha (Online)
 - end: 4:00 PM
@@ -150,27 +186,43 @@ day2:
   - authors:
     - Jie Zhang, Chen Jin, YuQi Huang, Li Yi, Yu Ding, Fei Guo (Alibaba Group)
     title: 'KOLE: Breaking the Scalability Barrier for Managing Far Edge Nodes in Cloud'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563462"
+    slides: "assets/slides/14.pdf"
   - authors:
     - Yongkang Zhang (Hong Kong University of Science and Technology); Yinghao Yu (Alibaba Group); Wei Wang (Hong Kong University of Science and Technology); Qiukai Chen, Jie Wu, Zuowei Zhang, Jiang Zhong, Tianchen Ding (Alibaba Group); Qizhen Weng, Lingyun Yang (Hong Kong University of Science and Technology); Cheng Wang, Jian He, Guodong Yang, Liping Zhang (Alibaba Group)
     title: 'Workload Consolidation in Alibaba Clusters: The Good, the Bad, and the Ugly'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563465"
+    slides: "assets/slides/25.pdf"
   - authors:
     - Huangshi Tian, Suyi Li (Hong Kong University of Science and Technology); Ao Wang (George Mason University); Wei Wang (Hong Kong University of Science and Technology); Tianlong Wu, Haoran Yang (Alibaba Group)
     title: 'Owl: Performance-Aware Scheduling for Resource-Efficient Function-as-a-Service Cloud'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563470"
+    slides: "assets/slides/55.pdf"
   - authors:
     - Shutian Luo (Shenzhen Institute of Advanced Technology, CAS, University of CAS, University of Macau); Huanle Xu (University of Macau); Kejiang Ye (Shenzhen Institute of Advanced Technology, CAS); Guoyao Xu, Liping Zhang, Guodong Yang (Alibaba Group); ChengZhong Xu (University of Macau)
     title: 'The Power of Prediction: Microservice Auto Scaling via Workload Learning'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563477"
+    slides: "assets/slides/86.pdf"
   - authors:
     - Chenlei Tang, Jiguang Wan, Zhihu Tan, Guokuan Li (Huazhong University of Science and Technology)
     title: 'Accelerating Range Query Performance of Primary and Secondary Indices for Key-Value Separation'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563479"
+    slides: "assets/slides/89.pdf"
   - authors:
     - Yuewen Wu, Heng Wu (Institute of Software, Chinese Academy of Sciences); Diaohan Luo, Yuanjia Xu, Yi Hu (University of Chinese Academy of Sciences); Wenbo Zhang, Hua Zhong (Institute of Software, Chinese Academy of Sciences)
     title: 'Serving Unseen Deep Learning Models with Near-Optimal Configurations: a Fast Adaptive Search Approach'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563485"
+    slides: "assets/slides/111.pdf"
   - authors:
     - Jiuchen Shi, Kaihua Fu, Quan Chen (Shanghai Jiao Tong University); Changpeng Yang, Pengfei Huang, Mosong Zhou (Huawei Cloud); Jieru Zhao, Chen Chen, Minyi Guo (Shanghai Jiao Tong University)
     title: 'Characterizing and Orchestrating VM Reservation in Geo-distributed Clouds to Improve the Resource Efficiency'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563490"
+    slides: "assets/slides/131.pdf"
   - authors:
     - Haotian Liu, Bo Tang, Jiashu Zhang, Yangshen Deng, Xiao Yan, Xinying Zheng, Qiaomu Shen, Dan Zeng, Zunyao Mao, Chaozu Zhang, Zhengxin You, Zhihao Wang, Runzhe Jiang (Southern University of Science and Technology); Fang Wang (The Hong Kong Polytechnic University); Man Lung Yiu (Hong Kong Polytechnic University); Huan Li (Aalborg University); Mingji Han (Boston University); Qian Li, Zhenghai Luo (Huawei Technologies Co. Ltd.)
     title: 'GHive: Accelerating Analytical Query Processing in Apache Hive via CPU-GPU Heterogeneous Computing'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563503"
+    slides: "assets/slides/155.pdf"
   title: Session 5 (Virtual)
   chair: Carsten Binnig, Deniz Altınbüken (In-person), Noman Bashir (Online)
 - end: 8:00 PM
@@ -200,21 +252,32 @@ day3:
   - authors:
     - Zhifeng Jiang, Wei Wang (Hong Kong University of Science and Technology); Baochun Li (University of Toronto); Bo Li (Hong Kong University of Science and Technology)
     title: 'Pisces: Efficient Federated Learning via Guided Asynchronous Training'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563463"
+    slides: "assets/slides/17.pdf"
   - authors:
     - Shiwei Zhang (The University of Hong Kong); Lansong Diao (Alibaba Group); Chuan Wu (The University of Hong Kong); Siyu Wang, Wei Lin (Alibaba Group)
     title: 'Accelerating Large-Scale Distributed Neural Network Training with SPMD Parallelism'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563487"
+    slides: "assets/slides/116.pdf"
   - authors:
     - Thomas Davidson, Jonathan Mace (Max Planck Institute for Software Systems (MPI-SWS))
     title: "See it to Believe it? The Role of Visualisation in Systems Research"
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563488"
+    slides: "assets/slides/126.pdf"
   - authors:
     - Kuo Zhang, Peijian Wang, Ning Gu, Thu D. Nguyen (Rutgers University)
     title: 'GreenDRL: Managing Green Datacenters Using Deep Reinforcement Learning'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563501"
+    slides: "assets/slides/153.pdf"
   - authors:
     - Wuhui Chen, Xiaoyu Qiu (Sun Yat-sen University); Zicong Hong (The Hong Kong Polytechnic University); Zibin Zheng (Sun Yat-sen University); Hong-Ning Dai (Hong Kong Baptist University); Jianting Zhang (Purdue university)
     title: 'Proactive Look-Ahead Control of Transaction Flows for High-Throughput Payment Channel Network'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563491"
+    slides: "assets/slides/133.pdf"
   - authors:
     - Amelie Chi Zhou, Ruibo Qiu (Shenzhen University); Thomas Lambert (Université de Lorraine, CNRS, Inria, LORIA); Tristan Allard (Univ. Rennes, CNRS, IRISA); Shadi Ibrahim (Inria, Univ. Rennes, CNRS, IRISA); Amr El Abbadi (UC Santa Barbara)
     title: 'PGPregel: An End-to-End System for Privacy-Preserving Graph Processing in Geo-Distributed Data Centers'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563474"
   title: Session 6 (Machine Learning & Analytics)
   chair: Heather Miller (In-person), Zichen Xu (Online)
 - end: 1:30 PM
@@ -231,18 +294,27 @@ day3:
   - authors:
     - Weiwei Jia (The University of Rhode Island); Jiyuan Zhang (New Jersey Institute of Technology); Jianchen Shan (Hofstra University); Jing Li, Xiaoning Ding (New Jersey Institute of Technology)
     title: 'Achieving Low Latency in Public Edges by Hiding Workloads Mutual Interference'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563459"
+    slides: "assets/slides/2.pdf"
   - authors:
     - Jianfeng Wang (University of Southern California); Tamás Lévai (Budapest University of Technology and Economics); Zhuojin Li (University of Southern California); Marcos A. M. Vieira (Universidade Federal de Minas Gerais); Ramesh Govindan, Barath Raghavan (University of Southern California)
     title: 'Quadrant: A Cloud-Deployable NF Virtualization Platform'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563471"
+    slides: "assets/slides/59.pdf"
   - authors:
     - Gaulthier Gain, Cyril Soldani (University of Liège); Felipe Huici (NEC Laboratories Europe GmbH); Laurent Mathy (University of Liège)
     title: 'Want More Unikernels? Inflate Them!'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    slides: "assets/slides/62.pdf"
   - authors:
     - Daniel Waddington, Moshik Hershcovitch, Swaminathan Sundararaman, Clem Dickey (IBM Research)
     title: 'A case for using Cache Line Deltas for High Frequency VM Snapshotting'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563481"
+    slides: "assets/slides/92.pdf"
   - authors:
     - Syed M. Iqbal (University of British Columbia, Amazon Web Services); Haley Li (University of British Columbia); Shane Bergsma (Huawei Cloud, Toronto Research Center); Ivan Beschastnikh, Alan J. Hu (University of British Columbia)
     title: 'CoSpot: A Cooperative VM Allocation Framework for Increased Revenue from Spot Instances'
+    url: "https://dl.acm.org/doi/10.1145/3542929.3563499"
   title: Session 7 (Virtualization)
   chair: Russell Sears (In-person), Dong Du (Online)
 - end: 5:00 PM
