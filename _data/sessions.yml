@@ -74,6 +74,7 @@ day1:
     title: 'How to Fight Production Incidents? An Empirical Study on a Large-scale Cloud Service'
     url: "https://dl.acm.org/doi/10.1145/3542929.3563482"
     slides: "assets/slides/95.pdf"
+    best: {}
   - authors:
     - Themis Melissaris, Kunal Nabar, Rares Radut, Samir Rehmtulla, Arthur Shi, Samartha Chandrashekar (Snowflake Inc.); Ioannis Papapanagiotou (Gemini Trust)
     title: 'Elastic Cloud Services: Scaling Snowflake’s Control Plane'
@@ -286,8 +287,11 @@ day3:
   talks: []
 - end: 2:30 PM
   start: 1:30 PM
-  title: Award Talk
-  talks: []
+  title: Test of Time Award
+  talks:
+  - title: "YARN - Yet Another Resource Negotiator"
+    authors:
+    - Vinod Kumar Vavilapalli, Arun C. Murthy, Chris Douglas, Sharad Agarwal, Mahadev Konar, Robert Evans, Thomas Graves, Jason Lowe, Hitesh Shah, Siddharth Seth, Bikas Saha, Carlo Curino, Owen O'Malley, Sanjay Radia, Benjamin Reed, Eric Baldeschwieler
 - end: 4:30 PM
   start: 2:30 PM
   talks: 
