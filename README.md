@@ -1,6 +1,8 @@
-# SoCC 2021 Website
+# SoCC 2023 Website
 
-Live site at https://acmsocc.github.io/2021/
+*** Currently cloned from socc2022 ***
+
+Live site at https://acmsocc.github.io/2023/
 =======
 
 ## Instructions for making changes to website
