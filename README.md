@@ -2,7 +2,11 @@
 
 *** Currently cloned from socc2022 ***
 
-Live site at https://acmsocc.github.io/2023/
+Live site at http://acmsocc.org/2023. This is published automatically with every push to the repo.
+If you want to disable the site until the next push, in GitHub go to Settings -> Github pages -> Unpublish.
+
+This repository is public, and the website is based on the jekyll static site generator.
+
 =======
 
 ## Instructions for making changes to website
@@ -24,7 +28,7 @@ If you don't have git installed in your computer, please follow the instructions
 
 From your unix terminal window use the following command to check out the repository
 
-> git clone https://github.com/acmsocc/2021.git
+> git clone https://github.com/acmsocc/2023.git
 
 A directory called 2021 will be created which houses the repository. The repository might not contain any code since it is the master. You need to check out the branch called gh-pages. 
 For checking out the branch, use the following
