@@ -112,8 +112,38 @@ day1:
   # chair: Seo Jin Park (In-person), Qizhen Zhang (Online)
 - end: 6:00 PM
   start: 5:00 PM
-  talks: []
   title: Poster session
+  talks: 
+  - authors:
+    - Yunhao Mao, Yuqiu Zhang, Hans-Arno Jacobsen
+    title: 'Optimized Storage for Seamless Multi-cloud Systems'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563459"
+    # slides: "assets/slides/2.pdf"
+  - authors:
+    - Ted Shaowang, Sanjay Krishnan
+    title: 'Decentralized Real-time Model Serving on the Edge'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563471"
+    # slides: "assets/slides/59.pdf"
+  - authors:
+    - Shiva Jahangiri, Giulliano Silva Zanotti Siviero
+    title: 'Towards a Memory-Adaptive Hybrid Hash Join Design'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    # slides: "assets/slides/62.pdf"
+  - authors:
+    - Jayneel Vora
+    title: 'Quantizing Diffusion Models for Unconditional Image Generation off the Cloud'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    # slides: "assets/slides/62.pdf"
+  - authors:
+    - Srihas Yarlagadda, Amey Agrawal, Alexey Tumanov
+    title: 'Sybill - Gpu-Free DL Workload Profiling'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    # slides: "assets/slides/62.pdf"
+  - authors:
+    - Isu Kim, Seehwan Yoo, Jaehyun Nam
+    title: 'Bridging the Gap Between Distributed Tracing and System Monitoring for Cloud Troubleshooting'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    # slides: "assets/slides/62.pdf"
 - end: 8:00 PM
   start: 6:00 PM
   talks: []
@@ -237,8 +267,38 @@ day2:
   # chair: Timothy Zhu (In-person), Saurabh Jha (Online)
 - end: 6:00 PM
   start: 5:00 PM
-  talks: []
   title: Poster session
+  talks: 
+  - authors:
+    - Yunhao Mao, Yuqiu Zhang, Hans-Arno Jacobsen
+    title: 'Optimized Storage for Seamless Multi-cloud Systems'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563459"
+    # slides: "assets/slides/2.pdf"
+  - authors:
+    - Ted Shaowang, Sanjay Krishnan
+    title: 'Decentralized Real-time Model Serving on the Edge'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563471"
+    # slides: "assets/slides/59.pdf"
+  - authors:
+    - Shiva Jahangiri, Giulliano Silva Zanotti Siviero
+    title: 'Towards a Memory-Adaptive Hybrid Hash Join Design'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    # slides: "assets/slides/62.pdf"
+  - authors:
+    - Jayneel Vora
+    title: 'Quantizing Diffusion Models for Unconditional Image Generation off the Cloud'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    # slides: "assets/slides/62.pdf"
+  - authors:
+    - Srihas Yarlagadda, Amey Agrawal, Alexey Tumanov
+    title: 'Sybill - Gpu-Free DL Workload Profiling'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    # slides: "assets/slides/62.pdf"
+  - authors:
+    - Isu Kim, Seehwan Yoo, Jaehyun Nam
+    title: 'Bridging the Gap Between Distributed Tracing and System Monitoring for Cloud Troubleshooting'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    # slides: "assets/slides/62.pdf"
 - end: 8:00 PM
   start: 6:00 PM
   talks: []
