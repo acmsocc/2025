@@ -255,7 +255,7 @@ day3:
   talks:
   - authors:
     - Wang-Chiew Tan (Facebook AI)
-    title: 'TBA'
+    title: 'Querying Unstructured and Structured Data with Large Language Models'
 - end: 10:00 AM
   start: 9:30 AM
   title: Break
