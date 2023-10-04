@@ -113,7 +113,7 @@ day1:
 - end: 6:00 PM
   start: 5:00 PM
   talks: []
-  title: Poster
+  title: Poster session
 - end: 8:00 PM
   start: 6:00 PM
   talks: []
@@ -238,7 +238,7 @@ day2:
 - end: 6:00 PM
   start: 5:00 PM
   talks: []
-  title: Poster
+  title: Poster session
 - end: 8:00 PM
   start: 6:00 PM
   talks: []
