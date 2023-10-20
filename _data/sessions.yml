@@ -32,7 +32,7 @@ day1:
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563469"
     # slides: "assets/slides/52.pdf"
   - authors:
-    - Tapan Chugh, Arvind Krishnamurthy (University of Washington); Ratul Mahajan (University of Washington, Amazon); Srikanth Kandula, Ishai Menache (Microsoft)
+    - Tapan Chugh (Microsoft Research, University of Washington), Srikanth Kandula (Microsoft Research), Arvind Krishnmamurhy (University of Washington), Ratul Mahajan (University of Washington), Ishai Menache (Microsoft Research)
     title: 'Anticipatory Resource Allocation for ML Training Clusters'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563498"
   - authors:
@@ -115,7 +115,7 @@ day1:
   title: Poster session
   talks: 
   - authors:
-    - Tapan Chugh, Arvind Krishnamurthy (University of Washington); Ratul Mahajan (University of Washington, Amazon); Srikanth Kandula, Ishai Menache (Microsoft)
+    - Tapan Chugh (Microsoft Research, University of Washington), Srikanth Kandula (Microsoft Research), Arvind Krishnmamurhy (University of Washington), Ratul Mahajan (University of Washington), Ishai Menache (Microsoft Research)
     title: 'Anticipatory Resource Allocation for ML Training Clusters'
   - authors:
     - Runxiang Cheng (University of Illinois Urbana-Champaign); Chris Cai, Selman Yilmaz, Rahul Mitra, Malay Bag, Mrinmoy Ghosh (Meta Platforms, Inc.); Tianyin Xu (University of Illinois Urbana-Champaign)
