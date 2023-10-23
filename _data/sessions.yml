@@ -10,6 +10,7 @@ day1:
 - end: 9:30 AM
   start: 8:30 AM
   title: Keynote 1
+  chair: Fatma Ozcan (Systems Research@Google)
   talks:
   - authors:
     - Ion Stoica (UC Berkeley)  
@@ -51,7 +52,7 @@ day1:
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563476"
     # slides: "assets/slides/72.pdf"
   title: Session 1 (Cloud Machine Learning)
-  # chair: Patrick Stuedi (In-person), Utku Sirin (Online)
+  chair: Thaleia Dimitra Doudali (IMDEA Software Institute)
 - end: 1:30 PM
   start: 12:00 PM
   title: Lunch
@@ -59,6 +60,7 @@ day1:
 - end: 2:30 PM
   start: 1:30 PM
   title: Keynote 2
+  chair: Peter Pietzuch (Imperial College London)
   talks:
   - authors:
     - Christos Kozyrakis (Stanford)
@@ -109,7 +111,7 @@ day1:
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563510"
     # slides: "assets/slides/223.pdf"
   title: Session 2 (Trustworthy Cloud)
-  # chair: Seo Jin Park (In-person), Qizhen Zhang (Online)
+  chair: Peter Pietzuch (Imperial College London)
 - end: 6:00 PM
   start: 5:00 PM
   title: Poster session
@@ -184,6 +186,7 @@ day2:
 - end: 9:30 AM
   start: 8:30 AM
   title: Keynote 3
+  chair: Peter Alvaro (UC Santa Cruz)
   talks:
   - authors:
     - Marc Brooker (AWS)
@@ -226,7 +229,7 @@ day2:
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563478"
     # slides: "assets/slides/87.pdf"
   title: Session 3 (Serverless Cloud)
-  # chair: Avani Wildani (In-person), Hao Wang (Online)
+  chair: Abhishek Chandra (University of Minnesota)
 - end: 1:30 PM
   start: 12:00 PM
   title: Lunch
@@ -234,6 +237,7 @@ day2:
 - end: 3:00 PM
   start: 1:30 PM
   title: Session 4 (Cloud Performance)
+  chair: Shungeng Zhang (Augusta University)
   talks:
   - authors:
     - Xiangfeng Zhu (University of Washington); Guozhen She (Duke university); Bowen Xue (University of Washington); Yu Zhang, Yongsu Zhang, Xuan Kelvin Zou, XiongChun Duan, Peng He (ByteDance Inc.); Arvind Krishnamurthy (University of Washington); Matthew Lentz (Duke University and VMware Research); Danyang Zhuo (Duke University); Ratul Mahajan (University of Washington, Amazon)
@@ -291,7 +295,7 @@ day2:
   #   url: "https://dl.acm.org/doi/10.1145/3542929.3563460"
   #   slides: "assets/slides/6.pdf"
   title: Session 5 (Cloud Applications)
-  # chair: Timothy Zhu (In-person), Saurabh Jha (Online)
+  chair: Yuanyuan Tian (Gray Systems Lab, Microsoft)
 - end: 6:00 PM
   start: 5:00 PM
   title: Poster session
@@ -374,6 +378,7 @@ day3:
 - end: 9:30 AM
   start: 8:30 AM
   title: Keynote 4
+  chair: Yuanyuan Tian (Gray Systems Lab, Microsoft)
   talks:
   - authors:
     - Wang-Chiew Tan (Facebook AI)
@@ -415,7 +420,7 @@ day3:
     title: 'TMC: Near-Optimal Resource Allocation for Tiered-Memory Systems'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563474"
   title: Session 6 (Cloud Resource Management)
-  # chair: Heather Miller (In-person), Zichen Xu (Online)
+  chair: Shiva Jahangiri (Santa Clara University)
 - end: 1:30 PM
   start: 12:00 PM
   title: Lunch
@@ -439,6 +444,7 @@ day3:
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563488"
     # slides: "assets/slides/126.pdf"
   title: Session 7 (Cloud Data Management)
+  chair: Heiner Litz (UC Santa Cruz)
   # talks:
   # - title: "YARN - Yet Another Resource Negotiator"
   #   authors:
@@ -466,7 +472,7 @@ day3:
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
     # slides: "assets/slides/62.pdf"
   title: Session 8 (Cloud Infrastructure)
-  # chair: Russell Sears (In-person), Dong Du (Online)
+  chair: Pamela Delgado (University of Applied Sciences Western Switzerland)
 - end: 4:30 PM
   start: 4:00 PM
   talks: []
