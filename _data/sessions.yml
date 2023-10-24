@@ -365,6 +365,11 @@ day2:
     title: 'Bridging the Gap Between Distributed Tracing and System Monitoring for Cloud Troubleshooting'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
     # slides: "assets/slides/62.pdf"
+  - authors:
+    - Georgia Christofidi, Konstantinos Papaioannou, Thaleia Dimitra Doudali (IMDEA Software Institute)
+    title: 'Is Machine Learning Necessary for Cloud Resource Usage Forecasting?'
+    # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
+    # slides: "assets/slides/62.pdf"
 - end: 8:00 PM
   start: 6:00 PM
   talks: []
