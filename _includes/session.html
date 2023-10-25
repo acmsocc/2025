@@ -37,6 +37,15 @@
             <ul class="session-list">
               {% for talk in session.talks %}
               <li>
+                <!-- BROUGHT THE IF BLOCK OUTSIDE -->
+                {% if talk.best %}
+                  <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best paper]</font> {{ talk.title }}</h4></a>
+      {% elsif talk.bestvision %}
+      <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best Vision paper]</font> {{ talk.title }}</h4></a>
+                  {% else %}
+                  <h4 class="talk-title">{{ talk.title }}</h4>
+                  {% endif %}
+                  <!-- END OF BLOCK -->
                 {% if talk.url and (showlinks or is_keynote) %}
                   {% if talk.best %}
                   <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best paper]</font> {{ talk.title }}</h4></a>

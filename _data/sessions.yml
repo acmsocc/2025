@@ -221,6 +221,7 @@ day2:
   - authors:
     - Suyi Li, Wei Wang (Hong Kong University of Science and Technology); Jun Yang, Guangzhen Chen, Daohe Lu (WeBank)
     title: 'Golgi: Performance-Aware, Resource-Efficient Function Scheduling for Serverless Computing'
+    best: {}
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563475"
     # slides: "assets/slides/67.pdf"
   - authors:
