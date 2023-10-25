@@ -89,7 +89,7 @@ day1:
     title: 'KVSEV: A Secure In-Memory Key-Value Store with Secure Encrypted Virtualization'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563482"
     # slides: "assets/slides/95.pdf"
-    best: {}
+    # best: {}
   - authors:
     - Xiaolong Wu, Dave (Jing) Tian (Purdue University); Chung Hwan Kim (University of Texas at Dallas)
     title: 'Building GPU TEEs using CPU Secure Enclaves with GEVisor'
