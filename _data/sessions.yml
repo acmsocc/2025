@@ -190,7 +190,7 @@ day2:
   talks:
   - authors:
     - Marc Brooker (AWS)
-    title: 'TBA'
+    title: 'So Many Loops: The Dynamic Behavior of Distributed Systems'
 - end: 10:00 AM
   start: 9:30 AM
   title: Break
