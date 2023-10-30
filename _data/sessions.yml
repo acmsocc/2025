@@ -29,7 +29,7 @@ day1:
     # slides: ""
   - authors:
     - Andrew Audibert, Yang Chen (Google); Dan Graur, Ana Klimovic (ETH Zurich); Jiri Simsa, Chandramohan A. Thekkath (Google)
-    title: 'tf.data service: A Case for Disaggregating ML Input Data Processing'
+    title: 'tf.data service: A Case for Disaggregating ML Input Data Processing (industry)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563469"
     # slides: "assets/slides/52.pdf"
   - authors:
@@ -38,7 +38,7 @@ day1:
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563498"
   - authors:
     - Runxiang Cheng (University of Illinois Urbana-Champaign); Chris Cai, Selman Yilmaz, Rahul Mitra, Malay Bag, Mrinmoy Ghosh (Meta Platforms, Inc.); Tianyin Xu (University of Illinois Urbana-Champaign)
-    title: 'Towards GPU Memory Efficiency for Distributed Training at Scale'
+    title: 'Towards GPU Memory Efficiency for Distributed Training at Scale (industry)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563508"
     # slides: "assets/slides/156.pdf"
   - authors:
@@ -121,7 +121,7 @@ day1:
     title: 'Anticipatory Resource Allocation for ML Training Clusters'
   - authors:
     - Runxiang Cheng (University of Illinois Urbana-Champaign); Chris Cai, Selman Yilmaz, Rahul Mitra, Malay Bag, Mrinmoy Ghosh (Meta Platforms, Inc.); Tianyin Xu (University of Illinois Urbana-Champaign)
-    title: 'Towards GPU Memory Efficiency for Distributed Training at Scale'
+    title: 'Towards GPU Memory Efficiency for Distributed Training at Scale (industry)'
   - authors:
     - Qiangyu Pei, Yongjie Yuan, Haichuan Hu (School of Computer Science and Technology, Huazhong University of Science and Technology); Qiong Chen (Huawei); Fangming Liu (Peng Cheng Laboratory & Huazhong University of Science and Technology)
     title: 'AsyFunc: A High-Performance and Resource-Efficient Serverless Inference System via Asymmetric Functions'
@@ -145,7 +145,7 @@ day1:
     # slides: "assets/slides/62.pdf"
   - authors:
     - Wu Xiang (Bytedance); Yakun Li (ByteDance); Yuquan Ren (Bytedance); Fan Jiang, Chaohui Xin, Varun Gupta, Chao Xiang (ByteDance); Xinyi Song (Bytedance); Meng Liu, Bing Li, Kaiyang Shao, Chen Xu, Wei Shao (ByteDance); Yuqi Fu (University of Virginia); Wilson Wang, Cong Xu (Bytedance); Wei Xu (ByteDance); Caixue Lin, Rui Shi (Bytedance); Yuming Liang (ByteDance)
-    title: 'Godel: Unified Large-Scale Resource Management and Scheduling at ByteDance'
+    title: 'Godel: Unified Large-Scale Resource Management and Scheduling at ByteDance (industry)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
     # slides: "assets/slides/62.pdf"
   - authors:
@@ -210,7 +210,7 @@ day2:
     # slides: "assets/slides/24.pdf"
   - authors:
     - Artjom Joosen, Ahmed Hassan, Luke Darlow, Martin Asenov, Wang Jianfeng, Rajkarn Singh (Huawei); Adam Barker (Huawei / University of St Andrews)
-    title: 'How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads'
+    title: 'How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads (industry)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563466"
     # slides: "assets/slides/28.pdf"
   - authors:
@@ -261,7 +261,7 @@ day2:
     # slides: "assets/slides/6.pdf"
   - authors:
     - Frederic Boesel, Livio Schl√§pfer (IBM Research Zurich Research Lab); H. Pozidis (IBM Research GmbH, Switzerland); Mitch Gusat (IBM Research Zurich Research Lab)
-    title: 'Multivariate Anomaly Detection with Domain Clustering'
+    title: 'Multivariate Anomaly Detection with Domain Clustering (work-in-progress)' 
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563460"
     # slides: "assets/slides/6.pdf"
 - end: 3:30 PM
@@ -273,7 +273,7 @@ day2:
   talks: 
   - authors:
     - Andreas Haeberlen, Linh Thi Xuan Phan (Roblox / University of Pennsylvania); Morgan McGuire (Roblox)
-    title: 'Metaverse as a Service: Megascale Social 3D on the Cloud'
+    title: 'Metaverse as a Service: Megascale Social 3D on the Cloud (vision)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563472"
   - authors:
     - Binghao Chen, Han Zhao, Weihao Cui, Yifu He, Shulai Zhang, Quan Chen, Zijun Li, Minyi Guo (Shanghai Jiao Tong University)
@@ -282,7 +282,7 @@ day2:
     # slides: "assets/slides/135.pdf"
   - authors:
     - Dan Zhao (MIT); Siddharth Samsi, Joseph McDonald (MIT Lincoln Laboratory); Baolin Li (Northeastern University); David Bestor, Michael Jones (MIT Lincoln Laboratory); Devesh Tiwari (Northeastern University); Vijay Gadepally (MIT Lincoln Laboratory)
-    title: 'Sustainable Supercomputing for AI: GPU Power Capping at HPC Scale'
+    title: 'Sustainable Supercomputing for AI: GPU Power Capping at HPC Scale (vision)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563502"
     # slides: "assets/slides/154.pdf"
   - authors:
@@ -292,7 +292,7 @@ day2:
     # slides: "assets/slides/6.pdf"
   - authors:
     - Yihua Cheng (University of Chicago); Hui Zhang (CONVIVA); Junchen Jiang (University of Chicago)
-    title: 'Online Profiling and Adaptation of Quality Sensitivity for Internet Video'
+    title: 'Online Profiling and Adaptation of Quality Sensitivity for Internet Video (work-in-progress)'
   #   url: "https://dl.acm.org/doi/10.1145/3542929.3563460"
   #   slides: "assets/slides/6.pdf"
   title: Session 5 (Cloud Applications)
@@ -303,17 +303,17 @@ day2:
   talks: 
   - authors:
     - Qingyuan Liu, Dong Du, Yubin Xia (Shanghai Jiao Tong University); Ping Zhang (Huawei Cloud); Haibo Chen (Shanghai Jiao Tong University)
-    title: 'The Gap Between Serverless Research and Real-world Systems'
+    title: 'The Gap Between Serverless Research and Real-world Systems (vision)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563459"
     # slides: "assets/slides/2.pdf"
   - authors:
     - Tom Kuchler, Michael Giardino, Timothy Roscoe, Ana Klimovic (ETH Zurich)
-    title: 'Function as a Function'
+    title: 'Function as a Function (vision)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563459"
     # slides: "assets/slides/2.pdf"
   - authors:
     - Artjom Joosen, Ahmed Hassan, Luke Darlow, Martin Asenov, Wang Jianfeng, Rajkarn Singh (Huawei); Adam Barker (Huawei / University of St Andrews)
-    title: 'How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads'
+    title: 'How Does It Function? Characterizing Long-term Trends in Production Serverless Workloads (industry)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563459"
     # slides: "assets/slides/2.pdf"
   - authors:
@@ -333,7 +333,7 @@ day2:
     # slides: "assets/slides/2.pdf"
   - authors:
     - Andreas Haeberlen, Linh Thi Xuan Phan (Roblox / University of Pennsylvania); Morgan McGuire (Roblox)
-    title: 'Metaverse as a Service: Megascale Social 3D on the Cloud'
+    title: 'Metaverse as a Service: Megascale Social 3D on the Cloud (vision)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563459"
     # slides: "assets/slides/2.pdf"
   - authors:
@@ -363,12 +363,12 @@ day2:
     # slides: "assets/slides/62.pdf"
   - authors:
     - Isu Kim, Seehwan Yoo, Jaehyun Nam
-    title: 'Bridging the Gap Between Distributed Tracing and System Monitoring for Cloud Troubleshooting'
+    title: 'Bridging the Gap Between Distributed Tracing and System Monitoring for Cloud Troubleshooting (vision)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
     # slides: "assets/slides/62.pdf"
   - authors:
     - Georgia Christofidi, Konstantinos Papaioannou, Thaleia Dimitra Doudali (IMDEA Software Institute)
-    title: 'Is Machine Learning Necessary for Cloud Resource Usage Forecasting?'
+    title: 'Is Machine Learning Necessary for Cloud Resource Usage Forecasting? (vision)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563473"
     # slides: "assets/slides/62.pdf"
 - end: 8:00 PM
@@ -398,7 +398,7 @@ day3:
   talks: 
   - authors:
     - Georgia Christofidi, Konstantinos Papaioannou, Thaleia Dimitra Doudali (IMDEA Software Institute)
-    title: 'Is Machine Learning Necessary for Cloud Resource Usage Forecasting?'
+    title: 'Is Machine Learning Necessary for Cloud Resource Usage Forecasting? (vision)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563463"
     # slides: "assets/slides/17.pdf"
   - authors:
@@ -418,7 +418,7 @@ day3:
     # slides: "assets/slides/153.pdf"
   - authors:
     - Wu Xiang (Bytedance); Yakun Li (ByteDance); Yuquan Ren (Bytedance); Fan Jiang, Chaohui Xin, Varun Gupta, Chao Xiang (ByteDance); Xinyi Song (Bytedance); Meng Liu, Bing Li, Kaiyang Shao, Chen Xu, Wei Shao (ByteDance); Yuqi Fu (University of Virginia); Wilson Wang, Cong Xu (Bytedance); Wei Xu (ByteDance); Caixue Lin, Rui Shi (Bytedance); Yuming Liang (ByteDance)
-    title: 'Godel: Unified Large-Scale Resource Management and Scheduling at ByteDance'
+    title: 'Godel: Unified Large-Scale Resource Management and Scheduling at ByteDance (industry)'
     # url: "https://dl.acm.org/doi/10.1145/3542929.3563491"
     # slides: "assets/slides/133.pdf"
   - authors:
