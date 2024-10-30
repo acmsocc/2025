@@ -294,7 +294,7 @@ day2:
     - Hang Xiong, Cheng Qu, Jing Li (University of Science and Technology of China)
     title: 'VWeiST: A Scalable and Efficient Proof-of-Stake Blockchain Consensus'
   - authors:
-    - Yu-Hsun Chiang, Wei-Lin Chang, Shih-Wei Li, Jan-Ting Du, Yu-Hsun Chiang (National
+    - Yu-Hsun Chiang, Wei-Lin Chang, Shih-Wei Li, Jan-Ting Du (National
       Taiwan University)
     title: Securing a Multiprocessor KVM Hypervisor with Rust
   - authors:
