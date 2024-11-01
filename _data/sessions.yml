@@ -155,10 +155,7 @@ day1:
     title: 'Krios: Scheduling Abstractions and Mechanisms for Enabling a LEO Compute
       Cloud'
   title: 'Session 4: The Elastic Cloud'
-- end: 8:00 PM
-  start: 6:00 PM
-  talks: []
-  title: Dinner
+
 day2:
 - end: 8:00 AM
   start: 7:30 AM
@@ -303,10 +300,8 @@ day2:
       di Torino)
     title: 'SURE: Secure Unikernels Make Serverless Computing Rapid and Efficient'
   title: 'Session 4: The Basics'
-- end: Onwards
-  start: 6:00 PM
-  talks: []
-  title: Dinner
+
+
 day3:
 - end: 8:00 AM
   start: 7:30 AM
