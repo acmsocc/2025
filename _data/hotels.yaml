@@ -1,0 +1,67 @@
+hotels:
+  - name: "Fairfield Inn & Suites Seattle Bellevue/Redmond"
+    url: "https://www.marriott.com/en-us/hotels/bvufi-fairfield-inn-and-suites"
+    address: "14595 NE 29th Pl, Bellevue, WA 98007"
+    distance: "1.7mi"
+    stars: 3
+
+  - name: "Sonesta Select Seattle Bellevue Redmond"
+    url: "https://www.sonesta.com/sonesta-select/wa/bellevue/sonesta-select-seattle"
+    address: "14615 NE 29th Pl, Bellevue, WA 98007"
+    distance: "1.6mi"
+    stars: 3
+
+  - name: "Aloft Seattle Redmond"
+    url: "https://www.marriott.com/en-us/hotels/seaad-aloft-seattle-redmond"
+    address: "15220 NE Shen St, Redmond, WA 98052"
+    distance: "0.8mi"
+    stars: 3
+
+  - name: "Hampton Inn & Suites Seattle/Redmond"
+    url: "https://www.hilton.com/en/hotels/searehx-hampton-suites-seattle-redmond"
+    address: "17770 NE 78th Pl, Redmond, WA 98052"
+    distance: "3.7mi"
+    stars: 3
+
+  - name: "Hilton Garden Inn Redmond Seattle"
+    url: "https://www.hilton.com/en/hotels/ikegigi-hilton-garden-inn-redmond"
+    address: "16630 Redmond Way, Redmond, WA 98052"
+    distance: "3.7mi"
+    stars: 3
+
+  - name: "Seattle Marriott Redmond"
+    url: "https://www.marriott.com/en-us/hotels/seamc-seattle-marriott-redmond"
+    address: "7401 164th Ave NE, Redmond, WA 98052"
+    distance: "2.9mi"
+    stars: 3
+
+  - name: "Hyatt House Seattle/Redmond"
+    url: "https://www.hyatt.com/en-US/hotel/washington/hyatt-house-seattle-redmond"
+    address: "15785 Bear Creek Pkwy, Redmond, WA 98052"
+    distance: "3mi"
+    stars: 3
+
+  - name: "Seattle Marriott Bellevue"
+    url: "https://www.marriott.com/en-us/hotels/seamb-seattle-marriott-bellevue"
+    address: "200 110th Avenue NE, Bellevue, WA 98004"
+    distance: "5.5mi"
+    stars: 4
+
+  - name: "Hotel 116, a Coast Hotel"
+    url: "https://www.coasthotels.com/hotel-116-a-coast-hotel-bellevue"
+    address: "625 116th Ave NE, Bellevue, WA 98004"
+    distance: "5.5mi"
+    stars: 3
+
+  - name: "AC Hotel Seattle Bellevue/Downtown"
+    url: "https://www.marriott.com/en-us/hotels/seaar-ac-hotel-seattle-bellevue-downtown"
+    address: "208 106th Pl NE, Bellevue, WA 98004"
+    distance: "5.7mi"
+    stars: 3
+
+  - name: "Hyatt Regency Bellevue on Seattle's Eastside"
+    url: "https://www.hyatt.com/hyatt-regency/en-US/belle-hyatt-regency-bellevue-on-seattles-eastside"
+    address: "900 Bellevue Way NE, Bellevue, WA 98004"
+    distance: "5.5mi"
+    stars: 4
+

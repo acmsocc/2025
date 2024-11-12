@@ -1,0 +1,39 @@
+
+<h2>Nearby Hotels (Less than 2 miles)</h2>
+<ul>
+  {% for hotel in site.data.hotels.hotels %}
+    {% assign distance = hotel.distance | replace: 'mi', '' | plus: 0 %}
+    {% if distance < 2 %}
+      <li>
+        <a href="{{ hotel.url }}">{{ hotel.name }}</a> ({{ hotel.stars}} stars, {{hotel.distance}}) <br>
+        {{ hotel.address }}<br>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Redmond Hotels (accessible by bus or by car)</h2>
+<ul>
+  {% for hotel in site.data.hotels.hotels %}
+    {% assign distance = hotel.distance | replace: 'mi', '' | plus: 0 %}
+    {% if distance >= 2 and distance <= 4 %}
+      <li>
+        <a href="{{ hotel.url }}">{{ hotel.name }}</a> ({{ hotel.stars}} stars, {{hotel.distance}}) <br>
+        {{ hotel.address }}<br>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Bellevue Hotels (easy access by Rapid Transit, or by car)</h2>
+<ul>
+  {% for hotel in site.data.hotels.hotels %}
+    {% assign distance = hotel.distance | replace: 'mi', '' | plus: 0 %}
+    {% if distance > 4 %}
+      <li>
+        <a href="{{ hotel.url }}">{{ hotel.name }}</a> ({{ hotel.stars}} stars, {{hotel.distance}}) <br>
+        {{ hotel.address }}<br>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

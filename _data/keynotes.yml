@@ -1,7 +1,26 @@
 irene:
     name: 'Irene Zhang (MSR)'
-    title: 'TBD' 
-    abstract: 'TBD' 
+    title: 'Demikernel and the Future of Datacenter Operating Systems'
+    abstract: 'Datacenter systems and I/O devices now run at
+        single-digit microsecond latencies, requiring nanosecond-scale
+        operating systems. Traditional kernel-based operating systems impose
+        an unaffordable overhead, so recent kernel-bypass OSes (e.g.,
+        Arrakis, Ix) and libraries (e.g., Caladan, eRPC) eliminate the OS
+        kernel from the I/O datapath. However, these systems do not offer a
+        general-purpose datapath OS replacement that meet the needs of
+        microsecond-scale systems.  As a result, while kernel-bypass
+        hardware is widely available in the datacenter, it is not widely
+        used.
+        
+        This talk summarizes Demikernel, a flexible datapath OS and
+        architecture designed for heterogenous kernel-bypass devices and
+        microsecond-scale datacenter systems. Demikernel supports a variety
+        of kernel-bypass hardware, including DPDK, RDMA, as well as software
+        bypass solutions like io_uring. To support microsecond-scale
+        operation, Demikernel includes a new nanosecond-scale TCP stack,
+        written in Rust and proposes new memory management, CPU scheduling
+        and network abstractions. Demikernel is currently used by Bing and
+        will go into production with Azure services later this year.'
     bio1: "Irene Zhang is a Principal Researcher at Microsoft Research.  Her
         work focuses on datacenter operating systems and distributed systems,
         especially making new datacenter hardware technologies more widely
