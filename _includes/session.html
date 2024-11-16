@@ -44,30 +44,31 @@
             <ul class="session-list">
               {% for talk in session.talks %}
               <li>
+                {% if talk.url and (showlinks or is_keynote) %}
+                  {% if talk.best %}
+                  <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best paper]</font> {{ talk.title }}</h4></a>
+		            {% elsif talk.bestvision %}
+		          <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best Vision paper]</font> {{ talk.title }}</h4></a>
+                  {% else %}
+                  <a href="{{talk.url}}"><h4 class="talk-title-link">{{ talk.title }}</h4></a>
+                  {% endif %}
+                {% else %}
+                <!-- <h3 class="talk-title">{{ talk.title }}</h3> -->
                 <!-- BROUGHT THE IF BLOCK OUTSIDE -->
                 {% if talk.best %}
-                  <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best paper]</font> {{ talk.title }}</h4></a>
-      {% elsif talk.bestvision %}
-      <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best Vision paper]</font> {{ talk.title }}</h4></a>
+                  <h4 class="talk-title-link"><font style="color:red">[Best paper]</font> {{ talk.title }}</a>
+                {% elsif talk.bestvision %}
+                  <h4 class="talk-title-link"><font style="color:red">[Best Vision paper]</font> {{ talk.title }}</a>
                   {% else %}
                   <h4 class="talk-title">{{ talk.title }}</h4>
                   {% endif %}
                   <!-- END OF BLOCK -->
-                {% if talk.url and (showlinks or is_keynote) %}
-                  {% if talk.best %}
-                  <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best paper]</font> {{ talk.title }}</h4></a>
-		  {% elsif talk.bestvision %}
-		  <a href="{{talk.url}}"><h4 class="talk-title-link"><font style="color:red">[Best Vision paper]</font> {{ talk.title }}</h4></a>
-                  {% else %}
-                  <h4 class="talk-title">{{ talk.title }}</h4>
-                  {% endif %}
-                {% else %}
-                <!-- <h3 class="talk-title">{{ talk.title }}</h3> -->
                 {% endif %}
                 {% assign authors = talk.authors | join: ', ' %}
                 <p class="course-meta" style="line-height:14px;font-size:12px">{{authors}}</p>
+                {% comment %}
                 {% if talk.url %}
-                  <a href="{{talk.url}}">[Paper]</a> &emsp;
+                 <a href="{{talk.url}}">[Paper]</a> &emsp;
                 {% endif %}
                 {% if talk.slides %}
                   <a href="{{talk.slides}}">[Slides]</a> &emsp;
@@ -75,6 +76,7 @@
                 {% if talk.audio %}
                   <a href="{{talk.audio}}">Audio</a> &emsp;
                 {% endif %}
+                {% endcomment %}
               </li>
 	      <br>
               {% endfor %}
