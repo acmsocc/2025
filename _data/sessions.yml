@@ -45,6 +45,7 @@ day1:
       and Scheduling'
     url: https://dl.acm.org/doi/10.1145/3698038.3698559
   title: 'Session 1 (Systems Supporting Machine Learning I: Scheduling)'
+  chair: "Shiva Jahangiri	(Santa Clara University)"
 - end: 11:00 AM
   start: 10:30 AM
   talks: []
@@ -89,6 +90,7 @@ day1:
       Analysis'
     url: https://dl.acm.org/doi/10.1145/3698038.3698564
   title: 'Session 2: Machine Learning Supporting Systems'
+  chair: "Prateek Sharma	(Indiana University)"
 - end: 1:30 PM
   start: 12:30 PM
   talks: []
@@ -137,6 +139,7 @@ day1:
       Processes'
     url: https://dl.acm.org/doi/10.1145/3698038.3698567
   title: Session 3 (Speed and Scale in Serverless)
+  chair: "Mohammad Shahrad	(University of British Columbia)"
 - end: 4:00 PM
   start: 3:30 PM
   talks: []
@@ -175,6 +178,7 @@ day1:
       Cloud'
     url: https://dl.acm.org/doi/10.1145/3698038.3698566
   title: 'Session 4: The Elastic Cloud'
+  chair: "Shixiong Qi	(University of Kentucky)"
 
 day2:
 - end: 8:00 AM
@@ -222,6 +226,7 @@ day2:
       System-Wide Scheduling'
     url: https://dl.acm.org/doi/10.1145/3698038.3698554
   title: 'Session 1: When Things Go Wrong in the Cloud'
+  chair: "Saurabh Jha	(IBM Research)"
 - end: 10:45 AM
   start: 10:15 AM
   talks: []
@@ -256,6 +261,7 @@ day2:
       Learning'
     url: https://dl.acm.org/doi/10.1145/3698038.3698557
   title: 'Session 2: Systems Supporting Machine Learning II'
+  chair: "Lin Wang	(Paderborn University)"
 - end: 1:15 PM
   start: 12:15 PM
   talks: []
@@ -301,6 +307,7 @@ day2:
     title: The Hidden Carbon Footprint of Serverless Computing
     url: https://dl.acm.org/doi/10.1145/3698038.3698546
   title: 'Session 3: The Green Cloud'
+  chair: "Timothy Zhu	(The Pennsylvania State University)"
 - end: 3:45 PM
   start: 3:15 PM
   talks: []
@@ -339,6 +346,7 @@ day2:
     title: 'SURE: Secure Unikernels Make Serverless Computing Rapid and Efficient'
     url: https://dl.acm.org/doi/10.1145/3698038.3698558
   title: 'Session 4: The Basics'
+  chair: "Ketan Bhardwaj	(Georgia Tech)"
 
 
 day3:
@@ -386,6 +394,7 @@ day3:
     title: 'SmartGraph: A Framework for Graph Processing in Computational Storage'
     url: https://dl.acm.org/doi/10.1145/3698038.3698538
   title: Session 1 (Bits on Disk)
+  chair: "Muhammad Ahmad	(Seagate Technology)"
 - end: 10:30 AM
   start: 10:15 AM
   talks: []
@@ -438,6 +447,7 @@ day3:
       Encapsulation
     url: https://dl.acm.org/doi/10.1145/3698038.3698552
   title: Session 2 (In the Cloud)
+  chair: "Gagan Somashekar	(Microsoft)"
 - end: 1:30 PM
   start: 12:30 PM
   talks: []
@@ -477,6 +487,7 @@ day3:
     title: 'FAAStloop: Optimizing Loop-Based Applications for Serverless Computing'
     url: https://dl.acm.org/doi/10.1145/3698038.3698560
   title: 'Session 3: Algorithms and Applications'
+  chair: "Vidushi Vashishth	(Google)"
 - end: 4:00 PM
   start: 3:30 PM
   talks: []
@@ -515,5 +526,6 @@ day3:
       Networks'
     url: https://dl.acm.org/doi/10.1145/3698038.3698563
   title: 'Session 4: Systems Supporting Machine Learning III: Training'
+  chair: "Noman Bashir	(MIT)"
 - start: 5:45 PM
   title: Closing
